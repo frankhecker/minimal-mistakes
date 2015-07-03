@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A blog about Howard County, Maryland, and the world beyond."
+tags: [howardcounty, politics, culture, data]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: civilityandtruth-banner.jpg
+  credit: Frank Hecker
+  creditlink: http://frankhecker.com/about/
 ---

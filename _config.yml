@@ -1,13 +1,13 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Civility and Truth
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Frank Hecker
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Resident of Ellicott City and Howard County, Maryland, systems engineer, and occasional blogger."
+  email: frank@frankhecker.com
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: hecker
+  facebook: frankhecker
   google:
     plus: #username
     analytics: 
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: frankhecker
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
