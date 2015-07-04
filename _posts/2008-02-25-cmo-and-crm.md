@@ -1,0 +1,24 @@
+---
+comments: false
+date: 2008-02-25 05:03:32+00:00
+layout: post
+slug: cmo-and-crm
+title: CMO and CRM
+tags:
+- music
+- emusic
+---
+
+I don't have time to follow every little bit of eMusic news, but I do find it interesting to look at [eMusic's press releases](http://www.emusic.com/about/pr/index.html) from time to time. One that recently caught my attention reports the [hiring of Kip Morgan and Anna Punsal](http://www.emusic.com/about/pr/pr2007218.html) as Chief Marketing Officer (CMO) and Vice President of Customer Relationship Management (CRM) respectively.
+
+There are at least two interesting aspects here. The first is that this is a sign of where eMusic finds itself now that the rumored Amazon deal has fallen through (if it ever existed in the first place) and no new buyers appear to be showing up (at least if published rumors are any indication). As I've written multiple times, eMusic is not a Web 2.0 darling that can sell itself at an inflated valuation based on hype and promise; it's a pretty conventional online service with a straightforward business model and a valuation that can be reasonably well estimated based on its financial results. (In fact, if I ever have the time I might take a shot at doing this myself; the result would likely be off by almost an order of magnitude, but the process itself might be interesting and educational, for myself if no one else.)
+
+Dimensional Associates' best hope for a future eMusic sale (or IPO, though I think that unlikely) is therefore to try to drive growth in the two numbers that ultimately determine eMusic's value: total subscribers and profit per subscriber. Increasing total subscribers is a function of getting more subscribers on the front end (hence the mention in the press release of customer acquisition through direct marketing) and retaining subscribers on the back end (hence the mention of customer retention, loyalty programs and the like). Leaving aside the cost side of the equation, increasing profit per subscriber could be done by cross-selling and up-selling subscribers (e.g., convincing them to buy audiobooks and/or other future products in addition to music), as well as by attracting and retaining subscribers who are more casual users and hence more profitable to service.
+
+(This last point has of course been key to eMusic since its beginnings: all other things being equal, the less a subscriber downloads the more money eMusic makes. In the limit a subscriber might download nothing at all, and their monthly fee would then be pure profit for eMusic--and for the labels, under [eMusic's revenue sharing scheme](http://digitalaudioinsider.blogspot.com/2007/11/more-on-emusic-payouts.html). Of course subscribers making no use of the service would presumably cancel their subscriptions eventually, but eventually might be a long time, and in the meantime they would have inflated eMusic's average profit per subscriber--and helped subsidize the downloading habits of subscribers who do download their entire quotas every month).
+
+As it happens, eMusic shares this basic financial model (relatively stable recurring revenue from subscription fees, significant fixed costs for infrastructure and labor, and variable costs per customer based on usage) with other subscription-based businesses, including in particular ISPs. It's perhaps not a coincidence that in hiring a CMO and VP CRM eMusic didn't bring in music industry veterans but instead looked to one such ISP, namely [EarthLink](http://www.earthlink.net/).
+
+Whether this will be a successful strategy or not remains to be seen. The second aspect of this announcement, and a somewhat ironic one, is that eMusic was apparently able to hire Morgan and Punsal in large part because of downsizing prompted by [EarthLink's deteriorating business](http://www.dslreports.com/shownews/Executives-Leaving-Earthlink-90332). Regardless of how successful EarthLink was at extracting financial value from its existing customer base, in the end it fell prey to larger industry trends, most notably the decline of the original dial-up business and the rise of a telco/cable broadband duopoly--a duopoly in which the ISP business produces only a portion of telco and cable revenue (albeit an increasing one), and can be cross-subsidized from the cash cows of the legacy telco and cable businesses.
+
+Could eMusic face a similar fate? I think that ultimately depends on whether eMusic can offer real value to its customers, value that is not totally dependent on the current state and structure of the music industry. Better customer acquisition and retention in the narrow sense may give eMusic the financial strength to weather the industry transition, but I think customer satisfaction in the broader sense will be key to eMusic prospering in whatever the next phase of the music industry turns out to be. (I hope to post more on this topic in the future.)

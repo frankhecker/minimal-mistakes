@@ -1,0 +1,35 @@
+---
+comments: false
+date: 2009-05-17 17:03:36+00:00
+layout: post
+slug: hybrid-organizations-and-maximizing-public-benefit
+title: Hybrid organizations and maximizing public benefit
+tags:
+- mozilla
+---
+
+Mark Surman has published another blog post about [why hybrid organizations matter](http://commonspace.wordpress.com/2009/05/12/whyhybrid-orgsmatter/). I agree with pretty much all of what Mark wrote, and don't have much to add in general. However I did want to comment specifically on the issue of hybrid organizations staying true to their public benefit mission, where Mark writes:
+
+
+<blockquote>This is actually a huge challenge for both traditional non-profits (grantmaker demands trigger mission drift) and social enterprises (can become more about the market than the mission). And it’s somewhere I think hybrids built on the idea of mass participation and peer production have a special advantage. They not only have boards and leaders committed to the mission, but they also have huge communities actively involved in interpreting the mission every day by helping to make something. The aggregate decisions of people who contribute to Firefox, or Wikipedia, or Kiva help shape what these things are in very real ways, which is in turn likely to make sure things stay more or less on mission. This isn’t to say peer production is democracy. Usually, meritocracy is the rule. Still, having a massive number of stakeholders involved in building things helps hybrid orgs stay public benefit focused.</blockquote>
+
+
+
+I agree with this as far as it goes, but want to expand on this point: There's a difference between staying focused on a public benefit mission in general, and deciding exactly how an organization might best pursue that mission. I think the general form of hybrid organizations (in particular being rooted in a participatory community) helps ensure that they don't get sidetracked by a single-minded focus on profitability or irrelevant agendas of major donors. However being a hybrid organization means still being subject to constraints based on the time, attention, and values of the organization's leaders and the members of the associated community, and there's still the possibility that such an organization will perform suboptimally, i.e., that in pursuing one strategy it will fail to pursue others that might be of greater public benefit.
+
+For example, within the Mozilla community there's an ongoing tension between pursuing the Mozilla mission primarily through developing and promoting Firefox and Thunderbird, as opposed to pursuing alternative strategies such as promoting an ecosystem of Mozilla-based applications. To take another example, some people have criticized Wikipedia contributors for working on allegedly trivial articles documenting pop culture ephemera. One can imagine alternative strategies for Wikipedia that might arguably be of greater public benefit, such as concentrating on creating serious content specifically for educational use. Can we ensure that hybrid organizations do not just pursue a public benefit missions, but do so in an optimal way? My response to that question is as follows:
+
+First, we can dispute the use of the term optimal in this context: Who decides what the public benefit means, and whether one strategy is of greater benefit than another? Every Wikipedia article is arguably of benefit to someone, if only the person who created it, and even supposedly trivial articles can be useful to those who find their subjects of interest. The open and massively parallel nature of Wikipedia (anyone can contribute, and articles can be independently created and maintained) means that in aggregate the benefit provided by it can and will accrue to very large numbers of people. With a few thousand people in the world for every Wikipedia article there will likely be enough [cognitive surplus](http://www.shirky.com/herecomeseverybody/2008/04/looking-for-the-mouse.html) to make Wikipedia provide a public benefit even using relatively rigorous criteria.
+
+There are other hybrid organizations (like Mozilla) where the nature of the projects (e.g., building a browser) forces the work to be more hierarchically structured, with a relatively few individuals on the critical path to getting things done. Here I think hybrid organizations will face the same general problems as other organizations in terms of allocating resources, including dealing with the [innovator's dilemma](http://web.mit.edu/6.933/www/Fall2000/teradyne/clay.html). The problem is compounded because in non-market environments we have less clear guides to evaluating the relative returns on alternative investments. For example, would it be of greater public benefit to increase Firefox market share by 1%, or to foster the development of one new Mozilla-based application? It's a difficult question to answer, especially a priori.
+
+In this absence of information as to the relative merits of alternative strategies, it's likely that even a hybrid organization would tend to favor existing strategies in support of existing goals, even in cases where a change of strategies might ultimately be of greater public benefit, because investing in existing strategies has more immediate returns in terms of the criteria by which the organization measures itself. Can a hybrid organization do better than a traditional organization (whether nonprofit or for-profit) in exploiting new opportunities?
+
+I think the answer is potentially yes, for two reasons. First, the focus on a public benefit mission allows for (though it does not guarantee) experimental investment in new strategies without worrying overmuch about the potential economic return. Thus, a hybrid organization might invest in deliberate experiments to explore [new products and services](http://labs.mozilla.com/) or [new mission areas](http://education.mozilla.org/), including spinning off [new organizations](http://www.mozillamessaging.com/about/) where appropriate.
+
+Second, to the extent that hybrid organizations practice openness both in their [products](http://opensource.org/docs/osd) and [processes](http://www.mozilla.com/en-US/about/get-involved.html), they help make it easier for other organizations (be they explicitly [non-profit](http://www.getmiro.com/about/) or [for-profit](http://getsongbird.com/about/)) to explore alternative strategies in the same or related areas, with potentially greater public benefit as a result. Those organizations that succeed in their missions and achieve long-term sustainability will lead to further increases in the base of technologies, processes, and communities on which hybrid organizations can build, and the cycle can repeat again.
+
+In essence the practices of hybrid organizations can increase the [evolvability](http://en.wikipedia.org/wiki/Evolvability) of organizations dedicated to the public benefit, pioneering new ways to adapt to the changed economic, social, and technological environment of the 21st century, and to address the challenges that face us.
+
+
+
