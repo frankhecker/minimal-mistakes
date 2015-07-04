@@ -6,12 +6,12 @@ slug: cafes-and-bakeries-in-ellicott-city-going-and-coming
 title: Cafes and bakeries in Ellicott City, going and coming
 tags:
 - howardcounty
-- Bean and Burgundy Bread
-- Cooks N Cakes
-- Ellicott City
-- Food
-- Matcha Time Cafe
-- Shilla Bakery
+- beanandburgundybread
+- cooksncakes
+- ellicottcity
+- food
+- matchatimecafe
+- shillabakery
 ---
 
 To get back in the blogging habit, a quick note on what’s going on food-wise in my part of Howard County, namely Route 40 in Ellicott City and the historic downtown:

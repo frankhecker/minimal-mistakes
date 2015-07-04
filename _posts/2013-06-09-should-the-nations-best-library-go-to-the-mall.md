@@ -6,9 +6,9 @@ slug: should-the-nations-best-library-go-to-the-mall
 title: Should the nation's best library go to the mall?
 tags:
 - howardcounty
-- Downtown Columbia
-- Howard County Library System
-- The Mall in Columbia
+- downtowncolumbia
+- howardcountylibrarysystem
+- themallincolumbia
 ---
 
 Congratulations to the [Howard County Library System](http://www.hclibrary.org/) for being selected the [2013 library of the year](http://ellicottcity.patch.com/articles/howard-county-library-system-named-2013-library-of-the-year) by Gale and Library Journal magazine. Note that the [cover story](http://lj.libraryjournal.com/2013/06/awards/2013-galelj-library-of-the-year-howard-county-library-system-md/) in the June 15 issue of Library Journal, as well as pretty much any other story about the library system these days, highlights the new Miller Branch and Historical Center in Ellicott City.

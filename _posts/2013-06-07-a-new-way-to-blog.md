@@ -6,8 +6,7 @@ slug: a-new-way-to-blog
 title: A new way to blog
 tags:
 - misc
-- Dragon Dictate
-- voice recognition
+- voicerecognition
 ---
 
 As you'll know if you read my [last post](/2013/06/03/repairing-my-personal-infrastructure/), I decided to stop blogging for a while to save wear and tear on my shoulder. However as it happened I got a phone call from Nuance, the makers of [Dragon Dictate for Mac](http://www.nuance.com/for-individuals/by-product/dragon-for-mac/dragon-dictate/index.htm), who were trying to get me to upgrade to the new version of the product that I purchased a few years ago. It was a reasonably good deal and I thought it was worth trying out, so I took advantage of the offer.

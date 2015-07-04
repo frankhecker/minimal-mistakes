@@ -7,8 +7,8 @@ title: Looking back at 2010 Howard County campaign signs, part 3
 tags:
 - howardcounty
 - politics
-- 2010 elections
-- campaign signs
+- 2010elections
+- campaignsigns
 ---
 
 We conclude our tour of campaign signs from the 2010 Howard County elections by looking at some of my favorites. (For more signs see [part 1](/2013/06/23/looking-back-at-2010-howard-county-campaign-signs-part-1/) and [part 2](/2013/06/24/looking-back-at-2010-howard-county-campaign-signs-part-2/).)

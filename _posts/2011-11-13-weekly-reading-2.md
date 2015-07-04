@@ -8,11 +8,10 @@ tags:
 - howardcounty
 - misc
 - politics
-- economic liberties
-- income disparities
-- income inequality
-- john rawls
-- veil of ignorance
+- economicliberties
+- inequality
+- johnrawls
+- veilofignorance
 ---
 
 Here are more recent links from [hecker.tumblr.com](http://hecker.tumblr.com/). This week (actually, more like two weeks) was somewhat random, to say the least.

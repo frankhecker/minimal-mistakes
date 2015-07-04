@@ -6,7 +6,11 @@ slug: mozilla-funded-nvda-project-gets-support-from-microsoft
 title: Mozilla-funded NVDA project gets support from Microsoft
 tags:
 - mozilla
-- accessibility microsoft mozillafoundation nvda nvaccess
+- accessibility
+- microsoft
+- mozillafoundation
+- nvda
+- nvaccess
 ---
 
 Some of you may recall that about a year ago the [Mozilla Foundation provided a grant to NV Access](http://www.nvaccess.org/blog/Another_grant_from_the_Mozilla_Foundation), an Australia-based nonprofit organization dedicated to developing [NVDA](http://www.nvda-project.org/), an open source [screen reader](http://en.wikipedia.org/wiki/Screen_reader) designed for blind users of Windows applications like Firefox. This grant went to support NV Access hiring a developer (James Teh) to work full-time on NVDA. (The Mozilla Foundation had previously provided a smaller grant as well.)

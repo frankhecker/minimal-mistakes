@@ -6,10 +6,10 @@ slug: howard-county-2012-income-and-inequality-part-1
 title: Howard County 2012 income and inequality, part 1
 tags:
 - howardcounty
-- Gini coefficient
+- ginicoefficient
 - income
 - inequality
-- median household income
+- medianhouseholdincome
 ---
 
 When I started blogging about Howard County issues just over five years ago it was in response to a post by Dennis Lane quoting Alan Klein on the [“wealthy few” in Howard County](/2008/09/09/the-wealthy-few-in-howard-county/). I followed that up with a two-part series on income inequality in Howard County ([part 1](/2008/11/16/income-inequality-in-howard-county-part-1/), [part 2](/2008/11/16/income-inequality-in-howard-county-part-2/)), using U.S. Census data. It’s therefore appropriate that I post today on the latest Census data on Howard County income figures for 2012, which were released last Thursday.

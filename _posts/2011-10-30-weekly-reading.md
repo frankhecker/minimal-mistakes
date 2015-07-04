@@ -7,11 +7,10 @@ title: Weekly reading
 tags:
 - misc
 - politics
-- economic liberties
-- income disparities
-- income inequality
-- john rawls
-- veil of ignorance
+- economicliberties
+- inequality
+- johnrawls
+- veilofignorance
 ---
 
 For some time now I've been posting links I find interesting at [hecker.tumblr.com](http://hecker.tumblr.com/). This is mainly for personal reference, but I thought it might be useful to collect those every week or two in case anyone else is interested. Some of these inspire blog posts, others I use as reference for various projects. This week was a political philosophy week.

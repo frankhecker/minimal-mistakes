@@ -7,7 +7,7 @@ title: 'People worth reading: Peter Turchin and modeling the cycles of history'
 tags:
 - politics
 - cliodynamics
-- Peter Turchin
+- peterturchin
 - worthreading
 ---
 
