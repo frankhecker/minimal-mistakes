@@ -24,6 +24,11 @@ kramdown:
   use_coderay: false
 
 
+# Tagging
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+
 # Site owner
 owner:
   name: Frank Hecker
