@@ -28,13 +28,17 @@ In [part 2](/2012/12/16/calculating-growth-rates-part-2/) of this series I discu
 
 Recall that you can take roots using a scientific calculator app for your smartphone, tablet, or PC, as described in the last post; you can also compute roots in a application like Microsoft Excel or Google Spreadsheets.1
 
-[caption id="attachment_6348" align="alignright" width="155"][![Picture of iPhone scientific calculator](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-small.png)](http://osxdaily.com/2011/12/29/iphone-scientific-calculator/) iPhone scientific calculator[/caption]
+<figure markdown="1">
+[![Picture of iPhone scientific calculator](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-small.png)](http://osxdaily.com/2011/12/29/iphone-scientific-calculator/) iPhone scientific calculator
+</figure>
 
 Using the technique above I estimated the growth rate of Howard County from 2000 to 2010 as 1.4807% per year, or 0.014807 in non-percentage form. I then asked how we could estimate the future population of Howard County, say in 2020.
 
 One approach to do this is similar to how we computed estimated populations from 2001 through 2009: We could add 1 to the non-percentage form of the growth rate to get the growth factor, and then multiply the growth factor by the Census population in 2010 to get an estimated population for 2011. We could then multiply the estimated 2011 population by the growth factor to get an estimated population for 2012, multiply that value again by the growth factor to get an estimate for 2013, and continue year by year until after ten multiplications we had an estimate for 2020.
 
-[caption id="attachment_6396" align="alignright" width="117"][![Photo of y-to-power-of-x key](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-power.png)](http://frankhecker.com/?attachment_id=6396) y to the x-th power[/caption]
+<figure markdown="1">
+[![Photo of y-to-power-of-x key](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-power.png)](http://frankhecker.com/?attachment_id=6396) y to the x-th power
+</figure>
 
 However we can simplify this calculation as follows: Since we started with the population in 2010, multiplied by the growth factor each time, and estimated the population for 10 years out (2011 through 2020), this is the same as raising the growth factor to the power of 10 and then multiplying the resulting value by the population in 2010. But do we still have to compute the 10th power of the growth factor by doing all the multiplications ourselves?
 

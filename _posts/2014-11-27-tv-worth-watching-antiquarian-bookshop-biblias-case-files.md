@@ -11,7 +11,12 @@ tags:
 - tv
 ---
 
-[caption id="attachment_8646" align="alignleft" width="200"][![Bookshop proprietor Shioriko Shinokawa (Ayame Goriki) and her partners in deduction Hijime Shida (Katsumi Takahashi) and Daisuke Goura (Akira).](https://hecker.files.wordpress.com/2014/11/antiquarian-bookshop-biblias-case-files.jpg?w=200)](https://hecker.files.wordpress.com/2014/11/antiquarian-bookshop-biblias-case-files.jpg) Bookshop proprietor Shioriko Shinokawa (Ayame Goriki) and her partners in deduction Hajime Shida (Katsumi Takahashi) and Daisuke Goura (Akira). Image © 2013 Fuji Television Network.[/caption]
+<figure markdown="1">
+[![Bookshop proprietor Shioriko Shinokawa (Ayame Goriki) and her partners in deduction Hijime Shida (Katsumi Takahashi) and Daisuke Goura (Akira).](https://hecker.files.wordpress.com/2014/11/antiquarian-bookshop-biblias-case-files.jpg?w=200)](https://hecker.files.wordpress.com/2014/11/antiquarian-bookshop-biblias-case-files.jpg)
+<figcaption>Bookshop proprietor Shioriko Shinokawa (Ayame Goriki) and her partners in deduction Hajime Shida (Katsumi Takahashi) and Daisuke Goura (Akira). Image © 2013 Fuji Television Network.</figcaption>
+</figure>
+
+
 
 tl;dr: Antiquarian Bookshop Biblia's Case Files is TV comfort food for the holidays, a cozy Japanese mystery series with a bookish heroine.
 

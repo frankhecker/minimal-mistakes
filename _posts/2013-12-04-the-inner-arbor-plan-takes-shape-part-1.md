@@ -13,7 +13,12 @@ tags:
 
 Last Tuesday night the [Inner Arbor Trust](http://inartrust.org/) revealed a clearer picture of what’s they’re proposing for downtown Columbia. I attended the [pre-submission meeting](https://www.facebook.com/events/424788714288812/), including the Q&A afterward. See Luke Lavoie’s [before](http://www.baltimoresun.com/news/maryland/howard/columbia/ph-ho-cf-inner-arbor-1205-20131201,0,2631482.story) and [after](http://www.baltimoresun.com/news/maryland/howard/columbia/ph-ho-cf-inner-arbor-reaction-1205-20131203,0,3729212.story) articles in the Baltimore Sun and a similar [article](http://www.washingtonpost.com/business/capitalbusiness/maryland-group-proposes-a-methamorphosis-for-its-downtown-columbia-public-park/2013/12/01/3f9bfdec-56f4-11e3-8304-caf30787c0a9_story.html) in the Washington Post for straightforward overviews of the design proposal and reactions to it; read on for my more opinionated take.
 
-[caption id="attachment_7183" align="alignright" width="300"][![Map of the proposed Inner Arbor plan in relation to the surroundings](http://hecker.files.wordpress.com/2013/12/inner-arbor-overview.png?w=300)](http://hecker.files.wordpress.com/2013/12/inner-arbor-overview.png) Overview of the Inner Arbor Trust “Merriweather Park” plan, from the pre-submission meeting[/caption]
+<figure markdown="1">
+[![Map of the proposed Inner Arbor plan in relation to the surroundings](http://hecker.files.wordpress.com/2013/12/inner-arbor-overview.png?w=300)](http://hecker.files.wordpress.com/2013/12/inner-arbor-overview.png)
+<figcaption>Overview of the Inner Arbor Trust “Merriweather Park” plan, from the pre-submission meeting</figcaption>
+</figure>
+
+
 
 First, my overall impression: I think the plan proposed is very promising overall. It does well on several of the key criteria by which people will judge the Inner Arbor development (and the Inner Arbor Trust itself), and contains some individual elements that I think are potential standouts. In this post I’ll discuss some of the overall issues around the proposal, and then in a follow-up post I’ll comment on the proposal itself.
 

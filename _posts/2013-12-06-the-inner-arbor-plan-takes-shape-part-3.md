@@ -23,11 +23,21 @@ What’s its cost? Does the feature look like it might be especially expensive d
 
 I can’t provide complete answers for all these questions, of course. I’m just an amateur critic, and don’t have any special insight into issues like construction costs and schedules. However I’ll try to at least make a start.
 
-[caption id="attachment_7206" align="aligncenter" width="625"][![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg) Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg)
+<figcaption>Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The graphic above shows all the proposed features and their relationship to the current Symphony Woods and Merriweather Post Pavilion. Note that a few of these features, most notably the Word Art and the Letter Garden, were presented at the pre-submission meeting but were not mentioned in Andrew Metcalfe’s breakdown of plan features. Other features are proposed but have yet to be designed; these include the Nest, which I’m guessing is intended to be the “iconic interactive sculpture” mentioned in the [original CA Inner Arbor plan presentation](http://www.scribd.com/doc/122612333/Columbia-Association-Inner-Arbor-Plan-Presentation), as well as some unnamed features proposed for the Merriweather Post Pavilion property. Finally, note that the road to the left side of the graphic is not Broken Land Parkway, but is a planned road that would be built in future between Symphony Woods proper and yet-to-be-built downtown Columbia developments on the east site of Broken Land Parkway. 
 
-[caption id="attachment_7252" align="aligncenter" width="625"][![Architectural rendering of the northwest entrance of Merriweather Park in the Inner Aebor plan, including the Word Art feature](http://hecker.files.wordpress.com/2013/12/2-merriweather-park-gateway-entrance.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/2-merriweather-park-gateway-entrance.jpg) Word Art at the northwest entrance of Merriweather Park in the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the northwest entrance of Merriweather Park in the Inner Aebor plan, including the Word Art feature](http://hecker.files.wordpress.com/2013/12/2-merriweather-park-gateway-entrance.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/2-merriweather-park-gateway-entrance.jpg)
+<figcaption>Word Art at the northwest entrance of Merriweather Park in the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The Word Art and Letter Garden features are intended to function as “arrival art”, something to welcome you to the park. The Word Art feature in particular is intended to highlight events taking place in the park for people arriving via the northwest entrance. (See for example the above graphic, with the letters announcing “ART IN THE WOODS TODAY”.) The letters would be made of [dichroic film](http://en.wikipedia.org/wiki/Dichroic_filter) sandwiched between inch-thick glass; the film would cause the letters to appear in different colors when viewed from different angles. Letters not used for the Word Art feature would be kept in the Letter Garden near the (small) parking lot for the park.
 

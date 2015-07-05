@@ -72,11 +72,18 @@ We now come to 2010. On the one hand, we can calculate the population in 2010 as
 
 The short answer is that we do what’s called “taking a root”. What is a root? Some examples: We know that 5 times 5 is 25, so we refer to 25 as 5 squared; alternatively we could say that 5 is the “square root” of 25. Similarly, 5 times 5 times 5 is 125, so 125 is 5 cubed and 5 is the cube root of 125. Finally, 5 times 5 times 5 times 5 is 625, so 625 is the 4th power of 5 and 5 is the 4th root of 625. In other words, taking a power and taking a root are inverse operations: If one number is (say) the 10th power of a second number then the second number is the 10th root of the first.
 
-[caption id="attachment_6348" align="alignright" width="155"][![Picture of iPhone scientific calculator](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-small.png)](http://osxdaily.com/2011/12/29/iphone-scientific-calculator/) iPhone scientific calculator[/caption]
+<figure markdown="1">
+[![Picture of iPhone scientific calculator](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-small.png)](http://osxdaily.com/2011/12/29/iphone-scientific-calculator/) iPhone scientific calculator
+</figure>
 
 In this case the 10th power of the growth factor is 1.158339, so the growth factor is the 10th root of 1.158339. How do we find this value? We use a calculator or a computer. For example, the standard calculator app on the iPhone can be turned into a so-called “scientific calculator” by turning the phone on its side (like you would do when watching a YouTube video). On the left are keys for special functions, among which is one to take the xth root of a number y.1
 
-[caption id="attachment_6349" align="alignright" width="113"]![Picture of x-root-y key on iPhone scientific calculator](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-root.png) Take the xth root of y[/caption]
+<figure markdown="1">
+![Picture of x-root-y key on iPhone scientific calculator](http://hecker.files.wordpress.com/2012/12/scientific-calculator-iphone-root.png)
+<figcaption>Take the xth root of y</figcaption>
+</figure>
+
+
 
 Let’s try it out: Suppose we want to find the 4th root of 625. On the iPhone’s calculator we enter 625, press the “xth root of y” key (pictured), enter 4, then press the “=” key. The answer should be 5, since 5 to the 4th power is 625.2
 

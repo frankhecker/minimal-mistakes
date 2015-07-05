@@ -342,11 +342,15 @@ The third column simply gives the share of household income going to that partic
 
 The cumulative share of income can be graphed as shown in the figure below. The red points show the values from the fourth column of the table above, with the red lines then connecting the dots to approximate a curve; if there were more households there would be more points and a correspondingly smoother curve.
 
-[caption id="attachment_432" align="alignnone" width="300" caption="Example 1 - Income distribution like Howard County"][![Example 1 - Graph of an income distribution similar to that of Howard County, Maryland](http://hecker.files.wordpress.com/2008/10/gini-example-1.png?w=300)](http://hecker.files.wordpress.com/2008/10/gini-example-1.png)[/caption]
+<figure markdown="1">
+[![Example 1 - Graph of an income distribution similar to that of Howard County, Maryland](http://hecker.files.wordpress.com/2008/10/gini-example-1.png?w=300)](http://hecker.files.wordpress.com/2008/10/gini-example-1.png)
+</figure>
 
 Now let's look at the graph for our second example from above:
 
-[caption id="attachment_434" align="alignnone" width="300" caption="Example 2 - More unequal income distribution"][![Example 2 - Graph of a more unequal income distribution](http://hecker.files.wordpress.com/2008/10/gini-example-2.png?w=300)](http://hecker.files.wordpress.com/2008/10/gini-example-2.png)[/caption]
+<figure markdown="1">
+[![Example 2 - Graph of a more unequal income distribution](http://hecker.files.wordpress.com/2008/10/gini-example-2.png?w=300)](http://hecker.files.wordpress.com/2008/10/gini-example-2.png)
+</figure>
 
 Again the red points represent the values for cumulative share of income from the fourth column of the second table, with the red lines connecting the dots. What about the blue dots in both graphs? Those represent the ideal case where all the household incomes are equal, or nearly so. In that case the poorest 10% of households will have (almost) 10% of total household income, the poorest 20% will have (almost) 20% of income, and so on. The corresponding curve will then be a straight (or nearly straight) line, here shown in blue.
 
@@ -518,7 +522,9 @@ The following 10-household example roughly mirrors the [Fairfield County househo
 </tbody></table>
 The corresponding Gini coefficient diagram is as follows:
 
-[caption id="attachment_449" align="alignnone" width="300" caption="Example 3 - Income distribution like Fairfield County"][![Example 1 - Graph of an income distribution similar to that of Fairfield County, Connecticut](http://hecker.files.wordpress.com/2008/10/gini-example-3.png?w=300)](http://hecker.files.wordpress.com/2008/10/gini-example-3.png)[/caption]
+<figure markdown="1">
+[![Example 1 - Graph of an income distribution similar to that of Fairfield County, Connecticut](http://hecker.files.wordpress.com/2008/10/gini-example-3.png?w=300)](http://hecker.files.wordpress.com/2008/10/gini-example-3.png)
+</figure>
 
 What makes Howard County special with respect to income inequality, and Fairfield County particularly interesting as a comparison? The answers to those questions will be the subject of [part 2](http://hecker.wordpress.com/2008/11/16/income-inequality-in-howard-county-part-2/) of this two-part post.
 

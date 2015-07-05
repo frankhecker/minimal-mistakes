@@ -13,21 +13,41 @@ tags:
 
 After the Caterpillar comes the Chrysalis, as I continue my comments on the Inner Arbor plan. For context and more information see other posts in this series ([part 1](/2013/12/04/the-inner-arbor-plan-takes-shape-part-1/), [part 2](/2013/12/05/the-inner-arbor-plan-takes-shape-part-2/), [part 3](/2013/12/06/the-inner-arbor-plan-takes-shape-part-3/), [part 4](/2013/12/07/the-inner-arbor-plan-takes-shape-part-4/), [part 5](/2013/12/07/the-inner-arbor-plan-takes-shape-part-4/)). For a good summary of the proposed features see Andrew Metcalf’s story “[Breaking Down the Plan to Develop Symphony Woods](http://columbia.patch.com/groups/downtown-columbia-development/p/breaking-down-the-plan-to-develop-symphony-woods)” at the Columbia Patch. For more on the vision behind the Inner Arbor plan and some inspirations for its features, see the [Columbia Association’s original presentation on the Inner Arbor plan](http://www.scribd.com/doc/122612333/Columbia-Association-Inner-Arbor-Plan-Presentation). Again my focus is on the following questions for each feature: Does it work? Is it beautiful? Will it last? What’s the cost?
 
-[caption id="attachment_7206" align="aligncenter" width="625"][![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg) Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. The Chrysalis is in the southeast part of the parcel, in the lower right corner. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg)
+<figcaption>Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. The Chrysalis is in the southeast part of the parcel, in the lower right corner. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The Chrysalis is located on the southeast portion of the Symphony Woods parcel that’s covered by the initial Inner Arbor plan. From the perspective of how visitors move through the park, the Chrysalis is beyond the east Gateway of the Caterpillar for visitors coming from the northeast or northwest park entrances. It is thus in the area of Symphony Woods intended for cultural events as opposed to play and picnicking. For visitors coming from Merriweather Post Pavilion the Chrysalis lies beyond the Butterfly; in their walk they will first encounter the Butterfly, walk around (or through) it, come to the sloping lawn for the amphitheater, and then to the Chrysalis itself. (The sequence of images below illustrates the view along the way.)
 
-[caption id="attachment_7323" align="aligncenter" width="625"][![Architectural rendering of the Chrysalis, viewed from a distance](http://hecker.files.wordpress.com/2013/12/8-merriweather-park-the-chrysalis-longview.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/8-merriweather-park-the-chrysalis-longview.jpg) The Chrysalis amphitheater in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from a distance. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Chrysalis, viewed from a distance](http://hecker.files.wordpress.com/2013/12/8-merriweather-park-the-chrysalis-longview.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/8-merriweather-park-the-chrysalis-longview.jpg)
+<figcaption>The Chrysalis amphitheater in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from a distance. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The purpose of the Chrysalis is very straightforward: It serves to cover the stage for a new outdoor amphitheater proposed for Symphony Woods. From one point of view this amphitheatre can be thought of as a smaller version of Merriweather Post Pavilion, with no permanently fixed seating and no roof for the audience--like what Merriweather would be like if everyone sat on the lawn. However the Chrysalis is much more bare bones than the pavilion, open on all sides and with limited or no permanent fixtures other than the structure itself. In that sense it is more comparable to the stage at the downtown Columbia lakefront or the stage in Centennial Park, although somewhat larger than both of these.
 
 One issue not addressed by the Inner Arbor presentation was how the Chrysalis would support sound and lighting equipment used for performances. Clearly the amphitheater isn’t going to be hosting full-blown Merriweather-style light shows and sound stacks, and some such equipment can simply be temporarily installed to the back or sides of the stage. However if the amphitheater is to be used for evening performances (which certainly makes sense) then some provision has to be made for a reasonably comprehensive lighting setup. The images released by the Inner Arbor Trust don’t show any such thing, but images released by the designer, Marc Fornes of THEVERYMANY, on [his web site](http://theverymany.com/) help resolve the mystery, showing a horizontal truss structure suspended from the underside of the roof of the Chrysalis, to which lights and sound equipment could be attached.
 
-[caption id="attachment_7324" align="aligncenter" width="625"][![Architectural rendering of the Chrysalis, exterior view](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg) The Chrysalis in Symphony Woods / Merriweather Park in the Inner Arbor plan, exterior view. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Chrysalis, exterior view](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg)
+<figcaption>The Chrysalis in Symphony Woods / Merriweather Park in the Inner Arbor plan, exterior view. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 Although the Chrysalis’s amphitheater area does not feature a roof over the audience, it does have shade from the trees of Symphony Woods, which the plan envisions preserving in place. (See the above graphics.) Although this means that some sight lines from the seating area to the stage will be partially blocked, the advantage is that the audience will be shaded from the sun (more so than at the amphitheaters at the lakefront or Centennial Park) and even in light rain they should be relatively protected from the elements. When there are no concerts or other events at the amphitheater the Chrysalis doubles as a place for people to meet and sit (e.g., on the steps to the side of the stage).
 
-[caption id="attachment_7325" align="aligncenter" width="625"][![Architectural rendering of the Chrysalis, interior view](http://hecker.files.wordpress.com/2013/12/10-merriweather-park-the-chrysalis-interior.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/10-merriweather-park-the-chrysalis-interior.jpg) The Chrysalis in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from inside the structure. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Chrysalis, interior view](http://hecker.files.wordpress.com/2013/12/10-merriweather-park-the-chrysalis-interior.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/10-merriweather-park-the-chrysalis-interior.jpg)
+<figcaption>The Chrysalis in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from inside the structure. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 As I noted previously, from a visual point of view the Chrysalis is the most striking of all of the proposed Inner Arbor features. It’s no accident that all of the news stories about the unveiling of the Inner Arbor plan have featured the rendering of the Chrysalis as their main illustration. The design is even more beautiful when seen from additional angles and from above, as shown on [Marc Fornes’s web site](http://theverymany.com/). Forget straight lines, the structure doesn’t have even approximate axes of symmetry; its separate parts seem to simply flow out of the ground and join together, like a plant or (perhaps more appropriately) a force field.
 

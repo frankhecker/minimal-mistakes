@@ -15,7 +15,12 @@ tags:
 
 I previously discussed [parking at Merriweather Post Pavilion](/2014/03/24/parking-and-the-future-of-merriweather-post-pavilion/). How does Merriweather fare compared to other venues? Do they offer any glimpses of Merriweather’s future with respect to parking? For this post I picked three different venues, each with a Merriweather connection and all of them together showing a wide range of venue parking situations.
 
-[caption id="attachment_7554" align="alignleft" width="300"][![Aerial view of Jiffy Lube Live and surroundings](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png) Jiffy Lube Live and surroundings, Bristow VA. The circles show areas within a quarter mile and half mile of the venue. Click for high-resolution version.[/caption]
+<figure markdown="1">
+[![Aerial view of Jiffy Lube Live and surroundings](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png)
+<figcaption>Jiffy Lube Live and surroundings, Bristow VA. The circles show areas within a quarter mile and half mile of the venue. Click for high-resolution version.</figcaption>
+</figure>
+
+
 
 First is [Jiffy Lube Live](http://en.wikipedia.org/wiki/Jiffy_Lube_Live) (formerly Nissan Pavilion) in Prince William County, Virginia. Jiffy Lube Live is notable as Merriweather Post Pavilion’s most serious local competitor for outdoor summer concerts. With a total capacity of 25,000 (10,000 in the pavilion proper, and 15,000 on the lawn) it is significantly larger than Merriweather, and thus tends to attract the very largest shows. As can be seen from the [aerial view of Jiffy Lube Live](https://www.google.com/maps/@38.7866933,-77.5900792,1521m/data=!3m1!1e3), the venue is located in a primarily rural area, with plenty of space for open-air parking.1
 
@@ -29,13 +34,23 @@ Your “senior” staff abdicated responsibility to a bunch of pimply faced teen
 
 Ouch. I may be cherry-picking bad reviews to some extent, but overall people apparently have pretty negative feelings about parking, traffic, and other aspects of the Jiffy Lube Live experience; the average Yelp rating for the venue is only two-and-a-half stars (out of five), compared to three-and-a-half stars for Merriweather.2
 
-[caption id="attachment_7559" align="alignright" width="300"][![Jay Pritzker Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png) Jay Pritzker Pavilion in Millennium Park and surroundings, Chicago IL. Circles show areas within a quarter mile and half mile of the pavilion. Click for high-resolution version.[/caption]
+<figure markdown="1">
+[![Jay Pritzker Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png)
+<figcaption>Jay Pritzker Pavilion in Millennium Park and surroundings, Chicago IL. Circles show areas within a quarter mile and half mile of the pavilion. Click for high-resolution version.</figcaption>
+</figure>
+
+
 
 Let’s now turn from a rural setting to a very urban setting, and look at the [Jay Pritzker Pavilion](http://en.wikipedia.org/wiki/Jay_Pritzker_Pavilion) in Millennium Park in Chicago. The Pritzker Pavilion has two Merriweather connections: First, like Merriweather it was designed by Frank Gehry, although unlike Columbia Chicago got the benefit of the mature Gehry style.3 Second, the Pritzker Pavilion and the surrounding Millennium Park occupy roughly the same land area as Merriweather Post Pavilion and Symphony Woods, and the Inner Arbor Trust has used Millennium Park as an example of the sort of structures and activities that could be fitted in the combined “Merriweather Park” footprint.
 
 As can be seen from the [aerial view of the Jay Pritzker Pavilion](https://www.google.com/maps/@41.8832734,-87.6204878,1457m/data=!3m1!1e3), there is essentially no open-air parking available anywhere near the pavilion and the surrounding park. However there is a [complex of underground parking garages](http://www.millenniumgarages.com/about/) providing over 9,000 spaces in total, most of them within a quarter mile of the pavilion, and there are also nearby rail and bus transit stops. The Pritzker Pavilion is wildly popular (rated at [four and a half stars on Yelp](http://www.yelp.com/biz/jay-pritzker-pavilion-chicago)), and in reading nearly a hundred reviews I found only one complaint about parking--and that seemed to be as much about the cost as about the availability. (Note also that I found many reviewers commenting on how clean the bathrooms were.)
 
-[caption id="attachment_7563" align="alignleft" width="300"][![Cythnia Woods Mitchell Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png) Cynthia Woods Mitchell Pavilion and surroundings, The Woodlands, Houston TX. Circles show areas within a quarter mile and half mile of the venue. Click for high-resolution version.[/caption]
+<figure markdown="1">
+[![Cythnia Woods Mitchell Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png)
+<figcaption>Cynthia Woods Mitchell Pavilion and surroundings, The Woodlands, Houston TX. Circles show areas within a quarter mile and half mile of the venue. Click for high-resolution version.</figcaption>
+</figure>
+
+
 
 Unfortunately (or not, depending on your perspective) Columbia is not a major city like Chicago and thus doesn’t have the transit infrastructure to supplement on-site or nearby venue parking. Probably a better comparison is thus to the [Cythnia Woods Mitchell Pavilion](http://en.wikipedia.org/wiki/Cynthia_Woods_Mitchell_Pavilion) (also known as the Woodlands Pavilion) in [The Woodlands](http://en.wikipedia.org/wiki/The_Woodlands,_Texas) outside of Houston. Like Columbia, The Woodlands is a planned community and is of roughly similar size (just over a hundred thousand residents). (The pavilion itself is [named after the wife of George Mitchell](http://www.woodlandscenter.org/history.html), who as the original developer of The Woodlands played a role similar to that of Jim Rouse in Columbia.) As you can see from the [aerial view of Cynthia Woods Mitchell Pavilion](https://www.google.com/maps/@30.1617438,-95.4639081,1599m/data=!3m1!1e3), like Merriweather the pavilion is located in an exurban location that is heavily car-dependent, with the pavilion itself surrounded by office, residential, and retail developments, including a nearby regional mall. Both pavilions have roughly similar maximum capacities as well, at around 19,000 people (including both pavilion and lawn).4
 

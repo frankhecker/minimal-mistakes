@@ -12,7 +12,12 @@ tags:
 - merriweatherpostpavilion
 ---
 
-[caption id="attachment_7595" align="alignleft" width="300"][![Rendering of proposed Crescent development in downtown Columbia](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg?w=300)](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg) Rendering of proposed Crescent development in downtown Columbia. View is of Area 3 looking east, with the proposed swim center to the right. Click for high-resolution version. Image © 2014 Howard Hughes Corporation; used with permission.[/caption]Columbia is well on its way to becoming a real city with a real downtown. (This is not an April Fools’ joke.)
+<figure markdown="1">
+[![Rendering of proposed Crescent development in downtown Columbia](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg?w=300)](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg)
+<figcaption>Rendering of proposed Crescent development in downtown Columbia. View is of Area 3 looking east, with the proposed swim center to the right. Click for high-resolution version. Image © 2014 Howard Hughes Corporation; used with permission.</figcaption>
+</figure>
+
+Columbia is well on its way to becoming a real city with a real downtown. (This is not an April Fools’ joke.)
 
 Last night I attended the pre-submission meeting at which Howard Hughes Corporation presented its plans for the Crescent area next to Symphony Woods and Merriweather Post Pavilion. (I arrived a few minutes late, missing the introduction of the presenters and the opening remarks.) For now I’ll leave a more complete description of the meeting to the professionals (see [Luke Lavoie’s story](http://www.baltimoresun.com/news/maryland/howard/columbia/ph-ho-cf-crescent-meeting-20140331,0,925474.story) today in the Baltimore Sun) and will just give some initial somewhat disconnected impressions.
 

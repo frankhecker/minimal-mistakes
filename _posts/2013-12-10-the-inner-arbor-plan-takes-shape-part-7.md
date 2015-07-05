@@ -39,11 +39,21 @@ Metamorphosis produces the Butterfly, as I conclude my comments on the features 
 
 For a good summary of the proposed features see Andrew Metcalf’s story “[Breaking Down the Plan to Develop Symphony Woods](http://columbia.patch.com/groups/downtown-columbia-development/p/breaking-down-the-plan-to-develop-symphony-woods)” at the Columbia Patch. For more on the vision behind the Inner Arbor plan and some inspirations for its features, see the [Columbia Association’s original presentation on the Inner Arbor plan](http://www.scribd.com/doc/122612333/Columbia-Association-Inner-Arbor-Plan-Presentation). As with the other features I focus on the following questions for the Butterfly: Does it work? Is it beautiful? Will it last? What’s the cost?
 
-[caption id="attachment_7206" align="aligncenter" width="625"][![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg) Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. The Butterfly is in the southeast part of the parcel, in the lower right corner. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg)
+<figcaption>Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. The Butterfly is in the southeast part of the parcel, in the lower right corner. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The Butterfly is located in the southeast portion of the Symphony Woods parcel that’s covered by the initial Inner Arbor plan, between Merriweather Post Pavilion and the Chrysalis amphitheater. Like the Chrysalis, the Butterfly is beyond the east Gateway of the Caterpillar for visitors coming from the northeast or northwest park entrances, in the area of Symphony Woods intended for cultural events as opposed to play and picnicking. In addition to being convenient to Merriweather Post Pavilion and the Chrysalis, the Butterfly could also be easily reached from the “arts village” and Columbia Association headquarters proposed for the eastern part of Symphony Woods in the original Inner Arbor concept plan.
 
-[caption id="attachment_7346" align="aligncenter" width="625"][![Architectural rendering of the Butterfly](http://hecker.files.wordpress.com/2013/12/12-merriweather-park-the-butterfly-northern-pov.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/12-merriweather-park-the-butterfly-northern-pov.jpg) The Butterfly in Symphony Woods / Merriweather Park in the Inner Arbor plan. The view is from the north, walking from the Chrysalis towards Merriweather Post Pavilion. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Butterfly](http://hecker.files.wordpress.com/2013/12/12-merriweather-park-the-butterfly-northern-pov.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/12-merriweather-park-the-butterfly-northern-pov.jpg)
+<figcaption>The Butterfly in Symphony Woods / Merriweather Park in the Inner Arbor plan. The view is from the north, walking from the Chrysalis towards Merriweather Post Pavilion. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The Butterfly is a café and gallery space. In some ways it is the successor to the outdoor café proposed as part of the [Cy Paumier plan for Symphony Woods](http://www.baltimoresun.com/news/maryland/howard/columbia/ph-ho-cf-symphony-woods-0328-2-20130326,0,741084.story), but its siting and intended audience are quite different. The café in the Paumier plan was to be located in the northern part of Symphony Woods next to the proposed fountain, and was intended in large part as a way to draw people into Symphony Woods. Whether or not it would have actually done so is an open question.1
 
@@ -55,13 +65,23 @@ The building itself would be accessible from both the Merriweather Post Pavilion
 
 As noted above the building itself would contain gallery space in one or two of the wings. The roof could also be used for performances, with the audience either sitting on the steps of one wing or standing in the others. (The high-resolution image shows a dance performance in the center of the roof.)
 
-[caption id="attachment_7349" align="aligncenter" width="625"][![Architectural rendering of the Butterfly, westerly view](http://hecker.files.wordpress.com/2013/12/13-merriweather-park-the-butterfly-westerly-pov.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/13-merriweather-park-the-butterfly-westerly-pov.jpg) The Butterfly in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from the west, showing a reflective wall. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Butterfly, westerly view](http://hecker.files.wordpress.com/2013/12/13-merriweather-park-the-butterfly-westerly-pov.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/13-merriweather-park-the-butterfly-westerly-pov.jpg)
+<figcaption>The Butterfly in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from the west, showing a reflective wall. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 While it’s not as immediately visually striking as the Chrysalis, in my opinion the Butterfly could end up the most beautiful structure in Symphony Woods, despite its relatively mundane purpose. Frank Gehry once modestly referred to the Rouse building as an “[elegant warehouse](http://www.bizjournals.com/baltimore/blog/real-estate/2013/10/architecture-review-frank-gehrys.html?page=all)”; similarly the Butterfly can be thought of as an “elegant concession stand”. In the rendering it appears as a very light building that almost floats above the earth, with glass walls at the two main entrances and a wooden roof.
 
 The Butterfly echoes Merriweather Park Pavilion in its use of natural materials and the amphitheater-like configuration of the roof, while echoing the curved forms of the Chrysalis--the concave upward swoop of the roofline mirroring in reverse the convex roof of the Chrysalis. Meanwhile the reflective metal surfaces of the exterior walls at the ends of the four wings literally mirror the surrounding woods, while the concave forms of the mirrored surface echoes the concavity of the roofline. (You can see the slight concavity of the walls in the high-resolution image of the westerly view above.)
 
-[caption id="attachment_7350" align="aligncenter" width="625"][![Architectural rendering of the Butterfly, view from above](http://hecker.files.wordpress.com/2013/12/11-merriweather-park-the-butterfly.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/11-merriweather-park-the-butterfly.jpg) The Butterfly in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from above, showing the deck on the Chrysalis side and the plaza on the Merriweather side. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Butterfly, view from above](http://hecker.files.wordpress.com/2013/12/11-merriweather-park-the-butterfly.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/11-merriweather-park-the-butterfly.jpg)
+<figcaption>The Butterfly in Symphony Woods / Merriweather Park in the Inner Arbor plan, viewed from above, showing the deck on the Chrysalis side and the plaza on the Merriweather side. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 What could go wrong in terms of maintainability or cost? One major issue that could compromise the elegance of the design is the need to put utility structures on the roof for air conditioning, heating, and other purposes. (These would also get in the way of rooftop visitors, of course.) The presenters at the pre-submission meeting speculated on the possibility of using a geothermal energy system in order to lessen this problem, but that would add additional complexity to the design that could drive up costs. There are also other practical considerations that could mar the clean lines of the roof and walls, such as the need for exhaust fans in kitchens if cooking is to be done on site. I’m not an expert in these matters, so I’ll just have to wait for further refinements to the design to be released in order to see how such practicalities get addressed.
 

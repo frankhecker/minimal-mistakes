@@ -21,13 +21,23 @@ For what it’s worth I think our anonymous expert had the better of the argumen
 
 
 
-[caption id="attachment_7460" align="alignleft" width="300"][![Satellite image of Hutcheson Forest](http://hecker.files.wordpress.com/2014/03/hutcheson-memorial-forest-surroundings.png?w=300)](http://hecker.files.wordpress.com/2014/03/hutcheson-memorial-forest-surroundings.png) Satellite view of the Hutcheson Memorial Forest and surrounding area in Franklin Township NJ. Click for high-resolution version.[/caption]
+<figure markdown="1">
+[![Satellite image of Hutcheson Forest](http://hecker.files.wordpress.com/2014/03/hutcheson-memorial-forest-surroundings.png?w=300)](http://hecker.files.wordpress.com/2014/03/hutcheson-memorial-forest-surroundings.png)
+<figcaption>Satellite view of the Hutcheson Memorial Forest and surrounding area in Franklin Township NJ. Click for high-resolution version.</figcaption>
+</figure>
+
+
 
 The implication was that Columbia, unlike its “betters”, was in essence destroying its precious natural heritage in the name of “progress”. This story intrigued me. Although I’ve been through Franklin Township I’d never heard of the forest in question (the William L. Hutcheson Memorial Forest, to give it its full name), and I thought it was worth investigating. After all, maybe the anonymous commenter was right: Maybe in our haste to improve the Symphony Woods “experience” we in Howard County were and are throwing away our chance to preserve the last of an aeons-old forest.
 
 It turns out that the story is more interesting and nuanced than it might appear at first glance, and the lessons it holds for Columbia are not nearly as straightforward as one might think. First, consider the size of the forest. Bill’s anonymous commenter was somewhat misleading (or misled): The actual area of old-growth forest in Hutcheson Memorial Forest is only 65 acres, not 500, per the Wikipedia article he or she linked to; the rest of the 500 acres is a combination of new-growth forests, abandoned farmland, and fields used as test plots by Rutgers University. (See the [Rutgers web site](http://rci.rutgers.edu/~hmforest/) for more information.) The image I’ve included in this post (courtesy of Google Maps) is a satellite view of the [area surrounding Hutcheson Memorial Forest](https://www.google.com/maps/@40.4967415,-74.5658505,2910m/data=!3m1!1e3). The total area in the image is almost four square miles or almost 2,500 acres. The 500 acre preserve is in the upper center of the image, below NJ 514 (Amwell Road), with the old growth forest comprising 65 acres in the midst of that. Beyond Hutcheson Forest proper is more open space, including a golf course and park north of Amwell Road. That's important, because it gives the old-growth forest a buffer from encroaching development and means the entire forest has a better chance of being a sustainable ecosystem for the long term.
 
-[caption id="attachment_7465" align="alignright" width="300"][![Satellite vew of Symphony Woods](http://hecker.files.wordpress.com/2014/03/symphony-woods-surroundings.png?w=300)](http://hecker.files.wordpress.com/2014/03/symphony-woods-surroundings.png) Satellite view of Symphony Woods and surrounding area in Columbia MD. Click for high-resolution version.[/caption]
+<figure markdown="1">
+[![Satellite vew of Symphony Woods](http://hecker.files.wordpress.com/2014/03/symphony-woods-surroundings.png?w=300)](http://hecker.files.wordpress.com/2014/03/symphony-woods-surroundings.png)
+<figcaption>Satellite view of Symphony Woods and surrounding area in Columbia MD. Click for high-resolution version.</figcaption>
+</figure>
+
+
 
 Now let’s turn to a satellite view of [Symphony Woods and its surrounding area](https://www.google.com/maps/@39.2080497,-76.8616696,2980m/data=!3m1!1e3), at the same scale and covering the same expanse, almost 2,500 acres. Looks a little different, doesn’t it? First, note that although the entire “Merriweather Park” area is over 46 acres, Merriweather Post Pavilion takes about 10 acres of that, so Symphony Woods itself covers only about 36 acres--a bit more than half the area of the core old-growth forest in Hutcheson Memorial Forest. And of course Symphony Woods has no new-growth forest, farmland, or other open space as a buffer--it’s right up against a four-lane highway, four-lane local streets, mid-rise office towers, and a regional mall. From that perspective pointing to Hutcheson Memorial Forest for inspiration is highly misleading; if Symphony Woods was indeed a thriving primeval forest and sustainable ecosystem then it was doomed from the moment Jim Rouse put shovel to earth at Columbia’s founding.
 

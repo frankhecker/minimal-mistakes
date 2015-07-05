@@ -14,7 +14,12 @@ Continuing my intermittent series of recommendation posts, today we’ll put asi
 
 American comics, and the movies adapted from them, focus primarily on superheroes.2 Japanese manga have a somewhat wider range of subjects, and so do the anime that they spawn. I’ve recently started watching more anime, and since I’m not a pre-teen or teenager my interests are not in the kid-oriented fantasy or science fiction anime that typically show up on American TV (“Pokemon”, “Dragonball Z”, “Sailor Moon”, and so on). Much of what I watch is oriented more for Japanese domestic consumption than for export; it can be quite interesting but not necessarily a great choice for those new to anime, especially if you’re also allergic to the typical anime style of art (most notably the “[big eyes](http://anime.stackexchange.com/questions/4748/why-do-anime-manga-characters-have-big-eyes)” look). I also wanted to recommend something other than the movies of [Hiyao Miyazaki](http://en.wikipedia.org/wiki/Hayao_Miyazaki); Miyazaki has made some great movies (“My Neighbor Totoro”, “Kiki’s Delivery Service”, “Spirited Away”, and so on), but looking only at his work would be like watching only movies from Pixar: rewarding but unnecessarily limiting.
 
-[caption id="attachment_7088" align="alignright" width="222"][![Silver Spoon: Yugo Hachiken and his classmates](http://hecker.files.wordpress.com/2013/09/silver_spoon_promo_image.jpg?w=222)](http://hecker.files.wordpress.com/2013/09/silver_spoon_promo_image.jpg) Yugo Hachiken and his classmates[/caption]
+<figure markdown="1">
+[![Silver Spoon: Yugo Hachiken and his classmates](http://hecker.files.wordpress.com/2013/09/silver_spoon_promo_image.jpg?w=222)](http://hecker.files.wordpress.com/2013/09/silver_spoon_promo_image.jpg)
+<figcaption>Yugo Hachiken and his classmates</figcaption>
+</figure>
+
+
 
 Hence my first recommendation: the current TV series [Silver Spoon](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15017) (in Japanese Gin no Saji, or 銀の匙 to be pendatic). Silver Spoon follows Yugo Hachiken, a junior high school student who for various reasons (more fully revealed over the course of the series) decides to drop out of the exam-driven Japanese academic rat race and leave his home in the city to enroll in Ōezo Agricultural High School, a boarding school with a farming “voc-tech” program far out in the countryside.
 

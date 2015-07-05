@@ -30,31 +30,66 @@ I'm not a professional graphic designer, so don't expect any truly profound thou
 
 And now without further ado, a gallery of 2010 campaign signs and my comments on them; again, remember that I didn’t manage to get pictures of everyone’s sign, so this is only a selection:
 
-[caption id="attachment_6958" align="aligncenter" width="300"][![Larry Walker for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg) Larry Walker for Board of Education (2010)[/caption]
+<figure markdown="1">
+[![Larry Walker for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg)
+<figcaption>Larry Walker for Board of Education (2010)</figcaption>
+</figure>
+
+
 
 How much more minimal could this be? The answer is none. None more minimal. But, as noted above, it gets the job done.
 
-[caption id="attachment_6959" align="aligncenter" width="300"][![Kay Hartleb for Register of Wills (2010) (with picture)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg) Kay Hartleb for Register of Wills (2010) (with picture)[/caption]
+<figure markdown="1">
+[![Kay Hartleb for Register of Wills (2010) (with picture)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg)
+<figcaption>Kay Hartleb for Register of Wills (2010) (with picture)</figcaption>
+</figure>
+
+
 
 At the other end of the spectrum, a sign with personality to burn.
 
-[caption id="attachment_6960" align="aligncenter" width="300"][![Kay Hartleb for Register of Wills (2010)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg) Kay Hartleb for Register of Wills (2010)[/caption]
+<figure markdown="1">
+[![Kay Hartleb for Register of Wills (2010)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg)
+<figcaption>Kay Hartleb for Register of Wills (2010)</figcaption>
+</figure>
+
+
 
 Here the personality gets turned down, but the red-and-white color scheme remains.
 
-[caption id="attachment_6977" align="aligncenter" width="300"][![Jason Reddish for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg) Jason Reddish for Clerk of Court (2010)[/caption]
+<figure markdown="1">
+[![Jason Reddish for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg)
+<figcaption>Jason Reddish for Clerk of Court (2010)</figcaption>
+</figure>
+
+
 
 A color scheme that (deliberately?) puns on the candidate’s name. It’s also the political equivalent of showing up at a party wearing the same dress as someone else--although to be fair there were a number of copycat design schemes in 2010, including (as we’ll see) the ubiquitous white text on dark blue background.
 
-[caption id="attachment_6984" align="aligncenter" width="300"][![Margy Rappaport for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg) Margy Rappaport for Clerk of Court (2010)[/caption]
+<figure markdown="1">
+[![Margy Rappaport for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg)
+<figcaption>Margy Rappaport for Clerk of Court (2010)</figcaption>
+</figure>
+
+
 
 Lavender’s a color you don’t see that often in campaign signs.
 
-[caption id="attachment_6972" align="aligncenter" width="300"][![David Proudfoot for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg) David Proudfoot for Board of Education (2010)[/caption]
+<figure markdown="1">
+[![David Proudfoot for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg)
+<figcaption>David Proudfoot for Board of Education (2010)</figcaption>
+</figure>
+
+
 
 Using a foot as a design element was presumably an idea that was impossible to resist. Note also that this sign refers to the “School Board”; I think all the other candidates’ signs referred to the “Board of Education”.
 
-[caption id="attachment_6969" align="aligncenter" width="300"][![Brian Meshkin for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg) Brian Meshkin for Board of Education (2010)[/caption]
+<figure markdown="1">
+[![Brian Meshkin for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg)
+<figcaption>Brian Meshkin for Board of Education (2010)</figcaption>
+</figure>
+
+
 
 Brian Meshkin was one of several candidates listing a campaign website as an alternative to having people do a Google search for more information. I didn’t notice until looking _very_ closely that it also includes instructions for texting him.
 

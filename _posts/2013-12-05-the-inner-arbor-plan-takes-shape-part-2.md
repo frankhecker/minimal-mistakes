@@ -21,7 +21,12 @@ The selected design team also has to be judged in that light. The amount of fund
 
 Turning to the design itself, let’s first consider the overall master plan for what the Inner Arbor Trust is calling “Merriweather Park”--essentially a rebranding of the combination of the existing Merriweather Post Pavilion and the proposed new Symphony Woods. Note that this phase of the plan does not address the entire area covered in the [original Inner Arbor conceptual plan](http://www.columbiaassociation.com/SymphonyWoodsPark/index.cfm). It focuses on the northern Symphony Woods parcel (about 16.5 acres) and its relationship to the Merriweather property, and leaves out the eastern parcel (where the conceptual plan proposed an “arts village” and a new Columbia Association headquarters) and the southern parcel (where the conceptual plan included a proposed sculpture garden).
 
-[caption id="attachment_7206" align="alignright" width="625"][![Graphic of Merriweather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg) The Merriweather Park master plan (click for high-resolution version). Image provided by the Inner Arbor Trust.[/caption]
+<figure markdown="1">
+[![Graphic of Merriweather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg)
+<figcaption>The Merriweather Park master plan (click for high-resolution version). Image provided by the Inner Arbor Trust.</figcaption>
+</figure>
+
+
 
 At the pre-submission meeting the primary criticisms of the overall plan were that it lacked a central focus and that the structures were not stylistically consistent. (One person gave as an example of such consistency the design of Howard County parks such as Blandair, Centennial, etc.) [To quote Cy Paumier](http://www.baltimoresun.com/news/maryland/howard/columbia/ph-ho-cf-inner-arbor-reaction-1205-20131203,0,3729212.story), these critics felt that “there is no ‘there’ there”.
 

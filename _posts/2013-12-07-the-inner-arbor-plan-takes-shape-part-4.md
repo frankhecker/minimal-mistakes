@@ -13,11 +13,21 @@ tags:
 
 Today I focus on the Picnic Table and the Lily Pads as I continue my look at structures and other features proposed as part of the Inner Arbor plan. For more background see [part 1,](/2013/12/04/the-inner-arbor-plan-takes-shape-part-1/) [part 2](/2013/12/05/the-inner-arbor-plan-takes-shape-part-2/), and [part 3](/2013/12/06/the-inner-arbor-plan-takes-shape-part-3/) of this series. For a good summary of the proposed features see Andrew Metcalf’s story “[Breaking Down the Plan to Develop Symphony Woods](http://columbia.patch.com/groups/downtown-columbia-development/p/breaking-down-the-plan-to-develop-symphony-woods)” at the Columbia Patch. For more on the vision behind the Inner Arbor plan and some inspirations for its features, see the [Columbia Association’s original presentation on the Inner Arbor plan](http://www.scribd.com/doc/122612333/Columbia-Association-Inner-Arbor-Plan-Presentation). As before, my focus is on the following questions for each feature: Does it work? Is it beautiful? Will it last? What’s the cost? 
 
-[caption id="attachment_7206" align="aligncenter" width="625"][![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg) Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Graphic of Merrieather Park master plan](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/1-merriweather-park-master-plan.jpg)
+<figcaption>Overview of the proposed Merriweather Park, showing features proposed for Symphony Woods as part of the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The proposed Picnic Table feature is located near the Word Art and Play Maze features discussed in the previous post. It is a relatively long and narrow feature, and stretches across a good portion of the north central portion of Symphony Woods, running from northwest to southeast. The proposed Lily Pads feature is located near the northeast entrance to the park, the entrance closest to the existing Central Branch library. See the above graphic to get a better idea of how these features relate to the rest of the proposed Merriweather Park. 
 
-[caption id="attachment_7275" align="aligncenter" width="625"][![Architectural rendering of the Picnic Table feature](http://hecker.files.wordpress.com/2013/12/5-merriweather-park-the-picnic-table.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/5-merriweather-park-the-picnic-table.jpg) The Picnic Table in Symphony Woods / Merriweather Park in the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Picnic Table feature](http://hecker.files.wordpress.com/2013/12/5-merriweather-park-the-picnic-table.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/5-merriweather-park-the-picnic-table.jpg)
+<figcaption>The Picnic Table in Symphony Woods / Merriweather Park in the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 The Picnic Table is a clever solution to a significant problem: On the one hand, people going to Symphony Woods are going to want someplace to sit down, stretch out, and perhaps enjoy some food and drink, especially when attending major events like Wine in the Woods. On the other hand, people would also like to be surrounded by the natural beauty of the woods in a setting more reminiscent of a primeval forest than a suburban lawn. Unfortunately, primeval forests have significant disadvantages for sitting and stretching out: The forest floor is littered with leaves, twigs, and other detritus, there are bushes and other low plants in the way, there are rocks, tree roots, and generally uneven ground to pain the sensitive rump, and the ground is often cold, damp and even muddy.
 
@@ -31,7 +41,12 @@ Will the Picnic Table prove to be durable? I think it will get a lot of use (and
 
 In any case the Picnic Table almost certainly won’t be anywhere near the costliest feature proposed for the park. There have been extras proposed for it, most notably Martha Schwartz speculating at the pre-submission meeting about heating the structure so that it could remain snow-free in winter. However such extras aren’t central to the overall concept and purpose of the Picnic Table, and could be discarded or scaled back if budget concerns need to take precedence.
 
-[caption id="attachment_7276" align="aligncenter" width="625"][![Architectural rendering of the Lily Pads feature](http://hecker.files.wordpress.com/2013/12/3-merriweather-park-the-lily-pads.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/3-merriweather-park-the-lily-pads.jpg) The Lily Pads in Symphony Woods / Merriweather Park in the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.[/caption]
+<figure markdown="1">
+[![Architectural rendering of the Lily Pads feature](http://hecker.files.wordpress.com/2013/12/3-merriweather-park-the-lily-pads.jpg?w=625)](http://hecker.files.wordpress.com/2013/12/3-merriweather-park-the-lily-pads.jpg)
+<figcaption>The Lily Pads in Symphony Woods / Merriweather Park in the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
+</figure>
+
+
 
 As the Word Art does at the northwest entrance to the proposed Merriweather Path, the Lily Pads serve to greet visitors arriving via the northeast entrance (for example, coming from Lake Kittamaqundi or the Central Branch library); they are a transition point into the area of Symphony Woods containing the new features proposed as part of the Inner Arbor plan.
 
