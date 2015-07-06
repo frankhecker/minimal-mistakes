@@ -44,7 +44,7 @@ _Civility and Truth_ is built using the [Jekyll][] static site
 generator and Michael Rose’s [Minimal Mistakes][] responsive Jekyll
 theme, designed to look good and load quickly on smartphones, tablets,
 and desktop PCs. It uses Arne Eilermann’s [jekyll-tagging][] plugin to
-provide tags for each post, and Nikita Lebedev’s [fork][] of [Lawrence
+provide tags for each post, and Nikita Lebedev’s [fork][] of Lawrence
 Woodman’s [related_posts] plugin to list posts related to a given post
 based on tags they have in common. It supports display of mathematical
 notation using [MathJax][], although at present that support does not
@@ -52,7 +52,7 @@ work in the Atom feed.
 
 [Jekyll]: http://jekyllrb.org/
 [Minimal Mistakes]: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
-[jeyll-tagging]: https://github.com/pattex/jekyll-tagging
+[jekyll-tagging]: https://github.com/pattex/jekyll-tagging
 [fork]: https://github.com/jumanji27/related_posts-jekyll_plugin
 [related_posts]: https://github.com/LawrenceWoodman/related_posts-jekyll_plugin
 [MathJax]: http://mathjax.org/
