@@ -21,7 +21,7 @@ After the Planning Board decision CA went into somewhat of a holding pattern wit
 
 This “Inner Arbor” plan as originally presented was _not_ an exact replacement for the Paumier plan, but was instead a high-level plan for the entire northeast and eastern portion of Symphony Woods; thus it included elements (like a replacement for Toby’s Dinner Theater and a new CA headquarters) that were never part of the Paumier plan. However since then the Inner Arbor plan has evolved into a plan specifically for the northern portion of Symphony Woods, the same area covered by the Paumier plan, and in an important sense it can be thought of simply as a continuation of and improvement on the Paumier plan, addressing that plan’s deficiencies as identified by the Planning Board and Design Advisory Panel.
 <figure markdown="1">
-[![Inner Arbor accessibility diagram](http://hecker.files.wordpress.com/2014/04/inner-arbor-accessibility-diagram.png?w=300)](http://hecker.files.wordpress.com/2014/04/inner-arbor-accessibility-diagram.png)
+[![Inner Arbor accessibility diagram](http://hecker.files.wordpress.com/2014/04/inner-arbor-accessibility-diagram.png)](http://hecker.files.wordpress.com/2014/04/inner-arbor-accessibility-diagram.png)
 <figcaption>Diagram of Inner Arbor walkway system showing accessible paths. Click for high-resolution version. Adapted from slide 205 of the presentation to the Design Advisory Panel. Image © 2014 Inner Arbor Trust; used with permission.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The Inner Arbor plan also replaces the relatively awkward north-south alignment 
 
 Speaking of the Chrysalis, as noted previously the Final Development Plan based on the Paumier design envisioned various park features in addition to the walkways, including a pavilion and café (combined or separate), a fountain (interactive or otherwise), a children’s play area, public art, and an outdoor “shared use” amphitheater that could be used for both Merriweather events (e.g., as a second stage) or for events in Symphony Woods proper (e.g., Wine in the Woods). The current Inner Arbor plan makes provision one way or the other for all those elements, and (unlike the Paumier plan) includes detailed designs for almost all of them.2 Put another way, almost every element in the current Inner Arbor plan is referenced in the Final Development Plan previously approved by the Planning Board.
 <figure markdown="1">
-[![Inner Arbor features relative to Paumier plan](http://hecker.files.wordpress.com/2014/04/paumier-inner-arbor-overlay2.jpeg?w=300)](http://hecker.files.wordpress.com/2014/04/paumier-inner-arbor-overlay.jpeg) Inner Arbor park features relative to their locations in the Paumier plan. Click for high-resolution version. Adapted from sheet 3 of FDP-DC-MSW-1, Downtown Columbia Merriweather-Symphony Woods Neighborhood Final Development Plan, and slides 25-33 of the Inner Arbor Trust presentation to the Design Advisory Panel.
+[![Inner Arbor features relative to Paumier plan](http://hecker.files.wordpress.com/2014/04/paumier-inner-arbor-overlay2.jpeg)](http://hecker.files.wordpress.com/2014/04/paumier-inner-arbor-overlay.jpeg) Inner Arbor park features relative to their locations in the Paumier plan. Click for high-resolution version. Adapted from sheet 3 of FDP-DC-MSW-1, Downtown Columbia Merriweather-Symphony Woods Neighborhood Final Development Plan, and slides 25-33 of the Inner Arbor Trust presentation to the Design Advisory Panel.
 </figure>
 The major difference from the Paumier plan is thus not the proposed park features themselves, but rather that the park features were moved to different locations within Symphony Woods, in order to improve integration with Merriweather Post Pavilion and/or to address other issues.
 
@@ -44,7 +44,7 @@ In the Paumier plan the children’s play area was proposed to be located in the
 
 The Paumier plan referenced possible public art in the park. That function is fulfilled in the Inner Arbor plan by the Merriweather Horns sound sculptures. The fountain envisioned in the Paumier plan is not in the Inner Arbor plan proper, because the proposal is to put the fountain not in Symphony Woods itself but rather within the Merriweather Post Pavilion property as part of a strategy to integrate the two areas (as recommended by the Planning Board).
 <figure markdown="1">
-[![Proposed unfenced boundary between Merriweather Post Pavilion and Symphony Woods](http://hecker.files.wordpress.com/2014/04/inner-arbor-merriweather-integration.png?w=300)](http://hecker.files.wordpress.com/2014/04/inner-arbor-merriweather-integration.png)
+[![Proposed unfenced boundary between Merriweather Post Pavilion and Symphony Woods](http://hecker.files.wordpress.com/2014/04/inner-arbor-merriweather-integration.png)](http://hecker.files.wordpress.com/2014/04/inner-arbor-merriweather-integration.png)
 <figcaption>Proposed unfenced boundary area between Merriweather Post Pavilion and Symphony Woods in the Inner Arbor plan, showing possible fountain plaza and cultural venues. Click for high-resolution version. Adapted from slide 201 of the presentation to the Design Advisory Panel. Image © 2014 Inner Arbor Trust; used with permission.</figcaption>
 </figure>
 

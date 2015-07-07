@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure markdown="1">
-[![A picture of the Inner Arbor Trust tent at Wine in the Woods](http://hecker.files.wordpress.com/2014/05/inner-arbor-trust-booth-at-witw.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/inner-arbor-trust-booth-at-witw.jpg)
+[![A picture of the Inner Arbor Trust tent at Wine in the Woods](http://hecker.files.wordpress.com/2014/05/inner-arbor-trust-booth-at-witw.jpg)](http://hecker.files.wordpress.com/2014/05/inner-arbor-trust-booth-at-witw.jpg)
 <figcaption>The Inner Arbor Trust tent at Wine in the Woods 2014. Click for high-resolution version.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ _Taking to strangers about the plan is a good way to better understand it._ In m
 
 _Talking about the Caterpillar._ People generally thought the [Caterpillar](/2013/12/08/the-inner-arbor-plan-takes-shape-part-5/) was cool and liked the way it looked (again, contrary to the letter writers, who seem to have a special hate for the Caterpillar). However I personally found it harder than with the other park features to crisply sum up what the Caterpillar was. I think that’s because the Caterpillar isn’t an amenity that stands alone, but instead is tied up with the overall strategy of more tightly integrating Merriweather Post Pavilion with Symphony Woods. So in explaining the Caterpillar I had to explain the strategy, which took more time. The best short explanation I came up with is that the Caterpillar is what’s going to replace the unattractive fence currently enclosing Merriweather.
 <figure markdown="1">
-[![Picture of the Purple Stage at Wine in the Woods](http://hecker.files.wordpress.com/2014/05/purple-stage-at-witw.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/purple-stage-at-witw.jpg)
+[![Picture of the Purple Stage at Wine in the Woods](http://hecker.files.wordpress.com/2014/05/purple-stage-at-witw.jpg)](http://hecker.files.wordpress.com/2014/05/purple-stage-at-witw.jpg)
 <figcaption>The Purple Stage at Wine in the Woods, at the future location of the Chrysalis amphitheater. Click for high-resolution version.</figcaption>
 </figure>
 

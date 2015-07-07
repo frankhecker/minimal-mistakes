@@ -18,7 +18,7 @@ The future of Symphony Woods and the Inner Arbor plan is tied up with the future
 I have no inside knowledge of this whole affair, but I presume that private discussions between the county and Howard Hughes didn’t bear fruit, so that negotiations are now being conducted via [press release](http://www.howardcountymd.gov/DisplayPrimary.aspx?id=6442473971) and [lawsuit](http://www.baltimoresun.com/news/maryland/howard/columbia/ph-county-suing-howard-hughes-for-106161-20140319,0,257760.story). I also have no firm opinion as to which side has the better case, so I’ll refrain from commenting on the merits of their respective positions, leaving that to [Bill Woodcock](http://53beersontap.typepad.com/53beers/2014/03/the-tif-between-howard-county-howard-hughes.html) and others.
 
 <figure markdown="1">
-[![Merriweather Post Pavilion and surroundings. The two circles show areas within a quarter mile and half mile of the pavilion. Click for high-resolution version.](http://hecker.files.wordpress.com/2014/03/merriweather-post-pavilion-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/merriweather-post-pavilion-500-ft-scale-with-circles.png)
+[![Merriweather Post Pavilion and surroundings. The two circles show areas within a quarter mile and half mile of the pavilion. Click for high-resolution version.](http://hecker.files.wordpress.com/2014/03/merriweather-post-pavilion-500-ft-scale-with-circles.png)](http://hecker.files.wordpress.com/2014/03/merriweather-post-pavilion-500-ft-scale-with-circles.png)
 <figcaption>Merriweather Post Pavilion and surroundings. The two circles show areas within a quarter-mile and half-mile of the pavilion. Click for high-resolution version.</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure markdown="1">
-[![Rendering of proposed Crescent development in downtown Columbia](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg?w=300)](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg)
+[![Rendering of proposed Crescent development in downtown Columbia](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg)](http://hecker.files.wordpress.com/2014/04/crescent_mp_rendering_final_rev.jpg)
 <figcaption>Rendering of proposed Crescent development in downtown Columbia. View is of Area 3 looking east, with the proposed swim center to the right. Click for high-resolution version. Image © 2014 Howard Hughes Corporation; used with permission.</figcaption>
 </figure>
 

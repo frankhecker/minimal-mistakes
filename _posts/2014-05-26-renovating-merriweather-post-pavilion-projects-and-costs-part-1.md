@@ -19,7 +19,7 @@ The original 2005 Ziger/Snead report recommended $19.5 million of Merriweather r
 The most costly renovations in Exhibit A fall into the following general categories, in decreasing order by total cost; the budget figures listed do _not_ include soft costs. Note that the exact scope and budget of the individual categories and projects may change based on further design work, and are all subject to Planning Board approval. I have tried to match the items in Exhibit A with the items A through P in the draft 2014 report; however in some cases the correspondence is not exact or or is unclear.
 
 <figure markdown="1">
-[![Merriweather east restroom interior](http://hecker.files.wordpress.com/2014/05/merriweather-east-restroom-interior.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-east-restroom-interior.jpg)
+[![Merriweather east restroom interior](http://hecker.files.wordpress.com/2014/05/merriweather-east-restroom-interior.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-east-restroom-interior.jpg)
 <figcaption>Interior of east restroom at Merriweather Post Pavilion. “East Restrooms remain cramped and deteriorated.” Image and original caption from the draft 2014 Ziger/Snead report, page 53 of the PDF.</figcaption>
 </figure>
 
@@ -30,18 +30,18 @@ There are currently five restroom facilities and five permanent (as opposed to s
 The draft 2014 Ziger/Snead report recommended totally replacing three of the restrooms and renovating two others that are located in historic buildings, at an estimated cost of $2.0 million (item B, pages 17, 65, and 71 of the PDF). The same report also proposed replacing and (in some cases) relocating the concession stands and box offices, at an estimated cost of $2.6 million (item H, pages 18, 67, and 71 of the PDF). The total for items B and H was $4.6 million, the same as the total of the corresponding budget line items in Exhibit A. I therefore presume that these renovations will be done pretty much as described in the draft 2014 report.
 
 <figure markdown="1">
-[![Merriweather Post Pavilion loge seating area and wall](http://hecker.files.wordpress.com/2014/05/merriweather-loge-area.jpeg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-loge-area.jpeg) Merriweather Post Pavilion loge area to the left, original seating area to the right. “Original concrete cheek wall between original and newer Loge seating obstructs ingress/egress.” Image and original caption from the draft 2014 Ziger/Snead report, page 36 of the PDF.
+[![Merriweather Post Pavilion loge seating area and wall](http://hecker.files.wordpress.com/2014/05/merriweather-loge-area.jpeg)](http://hecker.files.wordpress.com/2014/05/merriweather-loge-area.jpeg) Merriweather Post Pavilion loge area to the left, original seating area to the right. “Original concrete cheek wall between original and newer Loge seating obstructs ingress/egress.” Image and original caption from the draft 2014 Ziger/Snead report, page 36 of the PDF.
 </figure>_Upgrade seating and raise/renovate the main pavilion roof._ This category is budgeted in Exhibit A at either $3.0 million (“Seating & Raise Main Roof”) or $3.2 million, depending on whether the budget line item “Add: new roof” refers to the main roof or not. It combines two related projects: The first project will replace the concrete seating base in the main pavilion area and the two loge areas to each side, and replace all of the 4,650 seats in the three areas. Among other things, this will bring these areas into full ADA compliance (including expanding the number of handicapped accessible seats), improve circulation between the main seating area and the loge areas (by removing low concrete walls currently separating them), and provide permanent seating for the loge areas (replacing the current folding chairs). The cost for this project was estimated as $2.7 million in the draft 2014 report (item F, pages 19, 66, and 71 of the PDF).3
 
 <figure markdown="1">
-[![Merriweather Post Pavilion main roof](http://hecker.files.wordpress.com/2014/05/merriweather-main-roof.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-main-roof.jpg)
+[![Merriweather Post Pavilion main roof](http://hecker.files.wordpress.com/2014/05/merriweather-main-roof.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-main-roof.jpg)
 <figcaption>Merriweather Post Pavilion from northeast, showing main roof and seating area and west loge area beyond. Image from the draft 2014 Ziger/Snead report, page 32 of the PDF.</figcaption>
 </figure>
 
 The second project, to raise the main pavilion roof, was not included in the 2005 and 2014 Ziger/Snead reports, but was apparently part of a set of renovations proposed by IMP Productions, the operator for Merriweather Post Pavilion. The 2005 and 2014 reports recommended restoring the main roof, including replacing the roof surface and the vertical boards on the sides of the roof, at an estimated cost of approximately $440,000 (item M, pages 20, 68, and 71 of the PDF of the 2014 draft report). The idea of raising the main roof was suggested by IMP as a way to “improve sightlines from the Lawn and accommodate installation of V.I.P box seating and green roof lawn seating at the level of permanent roofs over the side Loges” (page 5 of the PDF).3 Whether it’s raised or not, the main roof still requires renovation, so this would presumably part of the project in any case.
 
 <figure markdown="1">
-[![Merriweather catering area and dressing trailers](http://hecker.files.wordpress.com/2014/05/merriweather-dressing-trailers.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-dressing-trailers.jpg)
+[![Merriweather catering area and dressing trailers](http://hecker.files.wordpress.com/2014/05/merriweather-dressing-trailers.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-dressing-trailers.jpg)
 <figcaption>Merriweather catering area (foreground) and dressing trailers (background). Image from the draft 2014 Ziger/Snead report, page 42 of the PDF.</figcaption>
 </figure>
 

@@ -20,7 +20,7 @@ Now it's time to continue our exploration, this time looking at the historical d
 
 The resulting graph shows a clear downward trend over the years:
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-d-vs-years1.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-d-vs-years1.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-d-vs-years1.png)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-d-vs-years1.png)
 
 This might seem surprising in combination with the graph in the previous post showing that the Republican share of total voters has remained relatively stable over the years. Given that Democratic registration in Howard County has supposedly been outpacing Republican registration by a considerable margin, shouldn't the percentage of Democratic voters be trending upward over the years, and the percentage of Republican voters trending downward?
 
@@ -33,7 +33,7 @@ Part of the answer may lie in the difference between registering voters and havi
 
 The resulting graph shows a clear and (at first glance) almost perfectly linear upward trend in the percentage of people voting who are unaffiliated or belong to other parties.
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-other-vs-years1.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-other-vs-years1.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-other-vs-years1.png)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-other-vs-years1.png)
 
 So possibly what's happening is that the rising percentage of unaffiliated and other voters is cutting into the Democratic fraction of voters more than into the Republican fraction.
 
@@ -48,7 +48,7 @@ But that's a question for another day. For now let's continue with trying to est
 
 Note that as in the original plot we set the vertical or y axis to go from 0 to 60%. In this new plot we also use the `xlim` parameter to set the horizontal (x) axis to go from 1990 to 2010, in order to help us envision how the historical trends might project forward to this year. To the graph produced by `plot()` we then add points for `hgg$PctVotersD` and `hgg$PctVotersOther`, both plotted against `hgg$Year`. (Note that the `points()` function does not start a brand-new graph, but simply overlays new data points on the graph already being displayed.)
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years.png)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years.png)
 
 From the above graph we can do a quick eyeball estimate of where the percentages of voters might end up in 2010, assuming historical trends continue. The percentage of unaffiliated voters looks like it might be around 17-18%, and the percentage of Democrats around 47-48%; that would leave the percentage of Republican voters around 35% or so.
 
@@ -104,7 +104,7 @@ We can show how closely that line fits the actual data by taking our plot from a
 
 Note that we don't have to repeat the previous `plot()` and `point()` functions, as long as we haven't issued a new `plot()` function in the meantime.
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-1.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-1.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-1.png)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-1.png)
 
 But enough of the preliminaries: Let's make an estimate! Given the values of slope and intercept given above, we can compute the predicted percentage of unaffiliated and other voters in the 2010 general election as follows:
 

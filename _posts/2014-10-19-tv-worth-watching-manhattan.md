@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure markdown="1">
-[![Picture of Frank Winter (John Benjamin Hickey) and Charlie Isaacs (Ashley Zuckerman)](http://hecker.files.wordpress.com/2014/09/manhattan-frank-winter-charlie-isaacs.jpg?w=300)](https://hecker.files.wordpress.com/2014/09/manhattan-frank-winter-charlie-isaacs.jpg)
+[![Picture of Frank Winter (John Benjamin Hickey) and Charlie Isaacs (Ashley Zuckerman)](http://hecker.files.wordpress.com/2014/09/manhattan-frank-winter-charlie-isaacs.jpg)](https://hecker.files.wordpress.com/2014/09/manhattan-frank-winter-charlie-isaacs.jpg)
 <figcaption>Frank Winter (John Benjamin Hickey) and Charlie Isaacs (Ashley Zuckerman), physicist protagonists of the WGN America television series "Manhattan"</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Sometimes people say that a particular TV show is "the best thing you're not w
 Briefly, Manhattan is a (very heavily) fictionalized telling of the race to create the first atomic bomb, focusing on the scientific community at Los Alamos, New Mexico. It’s about the actual Manhattan project in the same sense that the movie [MASH](http://en.wikipedia.org/wiki/MASH_(film)) was about the real-life Korean War--just as MASH used an early-1950s setting to explore 1960s Vietnam-era attitudes, Manhattan is an effort to search for the roots of the post-9/11 “war on terror” and its subsequent fallout (Guantanamo Bay, Wikileaks, Edward Snowden, and so on) in the secret World War II-era scientific and engineering efforts that led to the creation of the national security establishment and the military-industrial complex.1
 
 <figure markdown="1">
-[![Picture of the Los Alamos entrance on the set of Manhattan](http://hecker.files.wordpress.com/2014/09/los-alamos-entrance-manhattan.jpg?w=300)](https://hecker.files.wordpress.com/2014/09/los-alamos-entrance-manhattan.jpg)
+[![Picture of the Los Alamos entrance on the set of Manhattan](http://hecker.files.wordpress.com/2014/09/los-alamos-entrance-manhattan.jpg)](https://hecker.files.wordpress.com/2014/09/los-alamos-entrance-manhattan.jpg)
 <figcaption>The entrance to the Los Alamos "tech area" on the WGN America television series Manhattan</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ So, why should you watch Manhattan? First, the historical and scientific backgro
 Following on from the previous point, it’s great to see fictional characters who (no matter their personal foibles) are intelligent and competent--people you can actually believe could solve major technical problems. (Even the non-physicist characters are generally pretty smart people; with perhaps one or two exceptions no one comes off as an idiot.) It’s a refreshing change from TV shows and movies where scientists are played as overly-confident villians or comedic ivory-tower types. (As an prime example of the latter I give you The Big Bang Theory, a show that I found to be utterly unwatchable the one time I tried to watch it.)
 
 <figure markdown="1">
-[![Cast of "Manhattan" in character](https://hecker.files.wordpress.com/2014/10/manhattan-cast.jpg?w=300)](https://hecker.files.wordpress.com/2014/10/manhattan-cast.jpg)
+[![Cast of "Manhattan" in character](https://hecker.files.wordpress.com/2014/10/manhattan-cast.jpg)](https://hecker.files.wordpress.com/2014/10/manhattan-cast.jpg)
 <figcaption>The cast of "Manhattan", including Ashley Zuckerman and Rachel Brosnahan (left and second from left) as Charlie and Abby Isaacs, and John Benjamin Hickey and Olivia Williams (fifth and sixth from left) as Frank and Liza Winter.  </figcaption>
 </figure>
 

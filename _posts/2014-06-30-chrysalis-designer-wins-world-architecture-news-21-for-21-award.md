@@ -14,7 +14,7 @@ tags:
 ---
 
 <figure markdown="1">
-[![Architectural rendering of the Chrysalis, exterior view](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg?w=300)](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg)
+[![Architectural rendering of the Chrysalis, exterior view](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg)](http://hecker.files.wordpress.com/2013/12/9-merriweather-park-the-chrysalis-exterior.jpg)
 <figcaption>The Chrysalis in Symphony Woods / Merriweather Park in the Inner Arbor plan. (Click for high-resolution version.) Image © 2013 Inner Arbor Trust; used with permission.</figcaption>
 </figure>
 

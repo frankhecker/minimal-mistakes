@@ -9,7 +9,7 @@ tags:
 - politics
 ---
 
-[![The Newt Gingrich weight-loss program](http://hecker.files.wordpress.com/2011/03/newt-gingrich-weight-loss-program.jpg?w=300)](http://hecker.files.wordpress.com/2011/03/newt-gingrich-weight-loss-program.jpg)
+[![The Newt Gingrich weight-loss program](http://hecker.files.wordpress.com/2011/03/newt-gingrich-weight-loss-program.jpg)](http://hecker.files.wordpress.com/2011/03/newt-gingrich-weight-loss-program.jpg)
 
 A while back I lost a fair amount of weight and got back into the normal range of BMI. Since then I've regained some of the weight and am now just a tad above the normal range. I've been trying to get back down to where I was before, with not much luck.
 

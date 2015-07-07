@@ -23,7 +23,7 @@ First, in its attempt to avoid disturbing the forest area of Symphony Woods the 
 
 Second, the formal geometry of the walkways and the north-south axial alignment of the main walkway (present in the plans from 2011 on) were arbitrary, inconsistent with the character of Symphony Woods, and forced design choices in other areas that made the plan less than optimal. Although it’s certainly true that the Mall in Columbia is north of Symphony Woods, and that Merriweather Post Pavilion is south of this portion of it, there is no real north-south alignment of properties and features. In particular Merriweather Post Pavilion is not just off-access but actually rotated with respect to the mall access road and north-south walkway.
 <figure markdown="1">
-[![Northern terminus of proposed Paumier plan main walkway](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-north-terminus.jpg?w=300)](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-north-terminus.jpg)
+[![Northern terminus of proposed Paumier plan main walkway](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-north-terminus.jpg)](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-north-terminus.jpg)
 <figcaption>Looking up to Little Patuxent Parkway and the mall access road, near the northern end of the proposed main north-south walkway in the Paumier plan. Click for high-resolution version.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ This desire to force a formal walkway geometry onto an irregularly shaped Sympho
 
 Since Merriweather Post Pavilion itself (i.e., the amphitheater structure) is not located at (or even visible from) the southern end of the proposed north-south walkway, the plan put a small pavilion building there to provide a visual endpoint to the walkway and a destination for visitors. This pavilion would have been at probably the worst possible location in terms of integration with Merriweather, since it would have butted up against the Merriweather fence next to the restrooms and at some distance from the eastern and western entrances to Merriweather. The secondary east-west walkways had a similar problem: They would also have terminated on the south end at the pavilion, well away from the Merriweather entrances, and due to the attempted symmetry with the west walkway the northeast end of the east walkway at Little Patuxent Parkway would have been located in the middle of the block, some distance away from any crosswalks.
 <figure markdown="1">
-[![South end of proposed Paumier plan main walkway](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-south-terminus.jpg?w=300)](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-south-terminus.jpg)
+[![South end of proposed Paumier plan main walkway](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-south-terminus.jpg)](http://hecker.files.wordpress.com/2014/04/paumier-plan-main-path-south-terminus.jpg)
 <figcaption>Near the south end of the proposed main north-south walkway in the Paumier plan, showing the Merriweather fence and restrooms. Click for high resolution version.</figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ In doing research for my series on the [history of Howard County Council redistr
 
 The best way to get a feel for Howard County's growth is to graph the data. The following plot shows Howard County's population (solid line) compared to that of neighboring Frederick County (dashed line), another Maryland suburban county that experienced significant growth in the second half of the twentieth century.2
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-population-1950-2009.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-population-1950-2009.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-population-1950-2009.png)](http://hecker.files.wordpress.com/2010/11/hoco-population-1950-2009.png)
 
 While the population of Frederick County increased almost four-fold over the past sixty years (from 62,287 to 227,980), the population of Howard County grew more than twelve-fold (from 23,119 to 281,884), spurred by the impact of Columbia.
 

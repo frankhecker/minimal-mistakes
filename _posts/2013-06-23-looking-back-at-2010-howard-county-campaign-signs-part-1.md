@@ -31,7 +31,7 @@ I'm not a professional graphic designer, so don't expect any truly profound thou
 And now without further ado, a gallery of 2010 campaign signs and my comments on them; again, remember that I didn’t manage to get pictures of everyone’s sign, so this is only a selection:
 
 <figure markdown="1">
-[![Larry Walker for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg)
+[![Larry Walker for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg)](http://hecker.files.wordpress.com/2013/06/larry-walker-2010.jpg)
 <figcaption>Larry Walker for Board of Education (2010)</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ And now without further ado, a gallery of 2010 campaign signs and my comments on
 How much more minimal could this be? The answer is none. None more minimal. But, as noted above, it gets the job done.
 
 <figure markdown="1">
-[![Kay Hartleb for Register of Wills (2010) (with picture)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg)
+[![Kay Hartleb for Register of Wills (2010) (with picture)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-fancy.jpg)
 <figcaption>Kay Hartleb for Register of Wills (2010) (with picture)</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ How much more minimal could this be? The answer is none. None more minimal. But,
 At the other end of the spectrum, a sign with personality to burn.
 
 <figure markdown="1">
-[![Kay Hartleb for Register of Wills (2010)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg)
+[![Kay Hartleb for Register of Wills (2010)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg)](http://hecker.files.wordpress.com/2013/06/kay-hartleb-2010-plain.jpg)
 <figcaption>Kay Hartleb for Register of Wills (2010)</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ At the other end of the spectrum, a sign with personality to burn.
 Here the personality gets turned down, but the red-and-white color scheme remains.
 
 <figure markdown="1">
-[![Jason Reddish for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg)
+[![Jason Reddish for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg)](http://hecker.files.wordpress.com/2013/06/jason-reddish-20101.jpg)
 <figcaption>Jason Reddish for Clerk of Court (2010)</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Here the personality gets turned down, but the red-and-white color scheme remain
 A color scheme that (deliberately?) puns on the candidate’s name. It’s also the political equivalent of showing up at a party wearing the same dress as someone else--although to be fair there were a number of copycat design schemes in 2010, including (as we’ll see) the ubiquitous white text on dark blue background.
 
 <figure markdown="1">
-[![Margy Rappaport for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg)
+[![Margy Rappaport for Clerk of Court (2010)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg)](http://hecker.files.wordpress.com/2013/06/margy-rappaport-2010.jpg)
 <figcaption>Margy Rappaport for Clerk of Court (2010)</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ A color scheme that (deliberately?) puns on the candidate’s name. It’s also 
 Lavender’s a color you don’t see that often in campaign signs.
 
 <figure markdown="1">
-[![David Proudfoot for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg)
+[![David Proudfoot for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg)](http://hecker.files.wordpress.com/2013/06/david-proudfoot-20101.jpg)
 <figcaption>David Proudfoot for Board of Education (2010)</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Lavender’s a color you don’t see that often in campaign signs.
 Using a foot as a design element was presumably an idea that was impossible to resist. Note also that this sign refers to the “School Board”; I think all the other candidates’ signs referred to the “Board of Education”.
 
 <figure markdown="1">
-[![Brian Meshkin for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg?w=300)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg)
+[![Brian Meshkin for Board of Education (2010)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg)](http://hecker.files.wordpress.com/2013/06/brian-meshkin-2010.jpg)
 <figcaption>Brian Meshkin for Board of Education (2010)</figcaption>
 </figure>
 

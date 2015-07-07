@@ -133,7 +133,7 @@ Finally, let's redo the graph from the last post to include trend lines for both
 
 Note that since we stored the linear models in the variables `lmo` and `lmd` we don't have to manually type in the slope and intercept arguments (the coefficients of the line's equation) to the `abline()` function. Instead we can simply use the `coef()` function to extract those coefficients and plug them in.
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-2.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-2.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-2.png)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-vs-years-trendline-2.png)
 
 Statistics by themselves can take us only so far. We still have the question of why the proportion of unaffiliated and other voters seems to be increasing in such a strict linear manner from election to election. We also don't know why the increase in the proportion of unaffiliated and other voters seems to be primarily affecting the proportion of Democratic voters and not (on average) the proportion of Republican voters.
 

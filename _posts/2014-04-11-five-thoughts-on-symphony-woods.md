@@ -15,7 +15,7 @@ tags:
 
 When I was writing my post on [Symphony Woods and sacred lands ](/2014/04/09/symphony-woods-and-sacred-lands/)I had a number of thoughts that were too long to put in that post and too short to each deserve a post of their own. So here they are, all collected together:
 <figure markdown="1">
-[![15 reality checks on the Inner Arbor plan](http://hecker.files.wordpress.com/2014/04/15-reality-checks.png?w=300)](http://hecker.files.wordpress.com/2014/04/15-reality-checks.png)
+[![15 reality checks on the Inner Arbor plan](http://hecker.files.wordpress.com/2014/04/15-reality-checks.png)](http://hecker.files.wordpress.com/2014/04/15-reality-checks.png)
 <figcaption>"15 Reality Checks on the Plan" from the Inner Arbor Trust. Click for high-resolution version. Adapted from "Merriweather Park at Symphony Woods: By the Numbers", © 2014 Inner Arbor Trust; used with permission.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ For example, in my last post I wrote about a controversy in New York City relati
 
 _Those who preach a land’s sanctity aren’t always saints._ Going back to the example above, did people just happen to innocently get the facts wrong and decide a mosque was going to be built right where the twin towers stood? Well, no, not exactly. There were plenty of people who worked to actively spread this idea because they themselves stood to benefit if others believed it were true: news channels trying to increase their ratings, politicians trying to attract votes, advocacy groups trying to raise money, and so on.
 <figure markdown="1">
-[![Map of trees to be removed and planted as part of the Inner Arbor plan](http://hecker.files.wordpress.com/2014/04/inner-arbor-trees-removed-and-planted.png?w=300)](http://hecker.files.wordpress.com/2014/04/inner-arbor-trees-removed-and-planted.png)
+[![Map of trees to be removed and planted as part of the Inner Arbor plan](http://hecker.files.wordpress.com/2014/04/inner-arbor-trees-removed-and-planted.png)](http://hecker.files.wordpress.com/2014/04/inner-arbor-trees-removed-and-planted.png)
 <figcaption>A map of the trees to be removed as part of the Inner Arbor plan. Click for high-resolution version. Adapted from "Merriweather Park at Symphony Woods: By the Numbers", © 2014 Inner Arbor Trust; used with permission.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ First, as I’ve [previously mentioned](/2014/04/09/symphony-woods-and-sacred-la
 
 So if you’re concerned that “Symphony Woods” (i.e., including the wooded area next to US 29 and Broken Land Parkway) will soon start looking much smaller, and that Symphony Woods itself (i.e., the CA property) is going to be across the street from 20-story condo towers, be aware that this is not because evil outsiders invaded Columbia and betrayed Jim Rouse’s vision, it’s because Rouse himself took the actions that made these developments possible, and perhaps inevitable. (However, in Rouse's defense there are in fact areas in the Crescent that will remain undeveloped, for example between Area 1 and Area 2 and between Area 2 and Area 3. So more woods will remain than one might think, and it’s possible that given appropriate easements and paths that they could be used as an extension of Symphony Woods itself.)
 <figure markdown="1">
-[![Cy Paumier plan for Symphony Woods](http://hecker.files.wordpress.com/2014/04/merriweather-symphony-woods-fdp-page-3.png?w=300)](http://hecker.files.wordpress.com/2014/04/merriweather-symphony-woods-fdp-page-3.png)
+[![Cy Paumier plan for Symphony Woods](http://hecker.files.wordpress.com/2014/04/merriweather-symphony-woods-fdp-page-3.png)](http://hecker.files.wordpress.com/2014/04/merriweather-symphony-woods-fdp-page-3.png)
 <figcaption>Cy Paumier plan for Symphony Woods showing park features proposed to be constructed. Click for high-resolution version. Image adapted from FDP-DC-MSW-1, Downtown Columbia Merriweather-Symphony Woods Neighborhood Final Development Plan.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ _Being “Disneyesque” is not necessarily a bad thing._ One of the persistent 
 
 In fact, I’d go so far as to say that preserving Symphony Woods for future generations to enjoy will require more than a bit of the same sort of design thinking that went into Walt Disney’s theme parks. In particular, once the Crescent property is developed the remaining area of Symphony Woods is going to seem relatively small: the Inner Arbor plan preserves almost 80% of Symphony Woods as a natural wooded area, but that’s still only 14 acres or so--about the size of a small subdivision in western Howard County (land of 3-acre lots). A prime task is then to make Symphony Woods seem bigger to visitors than it actually is--the same problem faced by theme parks like Disneyland, and one that their creators did a good job of addressing through artful design.
 <figure markdown="1">
-[![Two miles of walkable surfaces in the Inner Arbor plan](http://hecker.files.wordpress.com/2014/04/2-miles-of-walking-surfaces.png?w=300)](http://hecker.files.wordpress.com/2014/04/2-miles-of-walking-surfaces.png) Walkable paths and roads in the Inner Arbor plan. Adapted from "Merriweather Park at Symphony Woods: By the Numbers", © 2014 Inner Arbor Trust; used with permission.  
+[![Two miles of walkable surfaces in the Inner Arbor plan](http://hecker.files.wordpress.com/2014/04/2-miles-of-walking-surfaces.png)](http://hecker.files.wordpress.com/2014/04/2-miles-of-walking-surfaces.png) Walkable paths and roads in the Inner Arbor plan. Adapted from "Merriweather Park at Symphony Woods: By the Numbers", © 2014 Inner Arbor Trust; used with permission.  
 
 </figure>
 The Paumier plan with its straight paths does a poor job of  this in my opinion; in particular the main path through the park makes it glaringly obvious how short the distance is from Little Patuxent Parkway to Merriweather Post Pavilion. The Inner Arbor plan instead has lots of “meandering paths” (as called for by the Howard County Planning Board after the Design Advisory Panel [found fault with the Paumier plan](http://inartrust.org/s/DAP-review-of-CA-plan-copy-2.pdf)), together with access roadways forming about two miles of walking surfaces within the confines of the park, and featuring over two thousand places to sit along the way. But I suspect people will probably prefer to walk than to sit, since as with the best theme parks walking will continually bring new sights to visitors’ attentions, between the natural beauty of the woods and the various attractive park features.

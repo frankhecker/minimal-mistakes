@@ -14,7 +14,7 @@ Unfortunately though the space requirements to do this are much greater: The His
 
 Then while lying in bed last night I thought: The Miller Branch is two stories, an appropriate size because it’s in a relatively rural setting. So is the current Central Branch. But a new Central Branch is going to be at the center of what will be an increasingly urban area; why not make it a three-story facility instead? Assume that the library portion would be roughly the size of the Miller Branch at about 60,000 square feet spread over two stories. Then add an additional 30,000 square feet in the form of a third story to house the co-working space, business resource center, and iCat program. I'm no developer or architect, but looking at an aerial view of the current Central Branch it seems like there’s be more than enough room to increase the building’s footprint to accommodate a three-story facility with 90,000 (or even up to 100,000) square feet.
 
-[![Howard County Central Branch library](http://hecker.files.wordpress.com/2013/02/central-branch-aerial-view.png?w=300)](http://hecker.files.wordpress.com/2013/02/central-branch-aerial-view.png)
+[![Howard County Central Branch library](http://hecker.files.wordpress.com/2013/02/central-branch-aerial-view.png)](http://hecker.files.wordpress.com/2013/02/central-branch-aerial-view.png)
 
 This would be a significantly larger building than the current Central Branch, but I think it would be quite in character with its surroundings: Across Little Patuxent Parkway are office buildings at least twice as tall, and a three-story building would be a nice transition to the future CA headquarters in Symphony Woods.
 

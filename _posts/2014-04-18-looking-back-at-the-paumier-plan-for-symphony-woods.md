@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure markdown="1">
-[![Proposed pathways and other features of the 2012 version of the Symphony Woods plan from Cy Paumier and his associates. Click for high-resolution version. Adapted from FDP-DC-MSW-1, Downtown Columbia Merriweather-Symphony Woods Final Development Plan.](http://hecker.files.wordpress.com/2014/04/paumier-paths-overlay.png?w=300)](http://hecker.files.wordpress.com/2014/04/paumier-paths-overlay.png)
+[![Proposed pathways and other features of the 2012 version of the Symphony Woods plan from Cy Paumier and his associates. Click for high-resolution version. Adapted from FDP-DC-MSW-1, Downtown Columbia Merriweather-Symphony Woods Final Development Plan.](http://hecker.files.wordpress.com/2014/04/paumier-paths-overlay.png)](http://hecker.files.wordpress.com/2014/04/paumier-paths-overlay.png)
 <figcaption>Proposed pathways and other features of the 2012 version of the Symphony Woods plan from Cy Paumier and associates. Click for high-resolution version. Adapted from sheet 3 of FDP-DC-MSW-1, Downtown Columbia Merriweather-Symphony Woods Neighborhood Final Development Plan.</figcaption>
 </figure>
 

@@ -26,7 +26,7 @@ _Construct permanent roofs for the loge areas._ This category comprises a single
 The draft 2014 Ziger/Snead report recommended replacing these temporary tents with permanent roofs that would be visually compatible with the existing main pavilion roof, at an estimated cost of $1.7 million (item E, pages 19, 66, and 71 of the PDF). This estimate also includes putting in a sprinkler system and adding lighting and ceiling fans. Since the budgeted amount of $1.9 million is slightly more than this it’s possible that the plans may include seating on top of these roofs, as proposed by IMP and mentioned above.
 
 <figure markdown="1">
-[![Path to Merriweather south entrance](http://hecker.files.wordpress.com/2014/05/merriweather-path-to-south-entrance.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-path-to-south-entrance.jpg)
+[![Path to Merriweather south entrance](http://hecker.files.wordpress.com/2014/05/merriweather-path-to-south-entrance.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-path-to-south-entrance.jpg)
 <figcaption>Path to Merriweather south entrance from the parking fields, showing relatively steep grade. Image from the draft 2014 Ziger/Snead report, page 27 of the PDF.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ _General site improvements._ This category includes two equal-size Exhibit A bud
 The draft 2014 Ziger/Snead report recommended re-grading of various portions of the site to reduce slopes and improve access, at an estimate cost of $0.7 million (item D, pages 19, 66, and 71 of the PDF). This amount is significantly less than the budgeted amount. It’s possible that the estimated cost in the draft 2014 report was too low (it was unchanged from the 2004 report) or that some additional work has been added.
 
 <figure markdown="1">
-[![Merriweather proscenium and stagehouse](http://hecker.files.wordpress.com/2014/05/merriweather-proscenium-and-stagehouse.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-proscenium-and-stagehouse.jpg)
+[![Merriweather proscenium and stagehouse](http://hecker.files.wordpress.com/2014/05/merriweather-proscenium-and-stagehouse.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-proscenium-and-stagehouse.jpg)
 <figcaption>Merriweather stage showing proscenium opening and stagehouse behind. Image from the draft 2014 Ziger/Snead report, page 34 of PDF.</figcaption>
 </figure>
 
@@ -44,14 +44,14 @@ _Widening the proscenium and replacing the stagehouse._ This comprises a single 
 The draft 2014 Ziger/Snead report recommended both widening the proscenium opening by 15 feet, at an estimated cost of almost $0.4 million (item H, pages 19, 67, and 71 of the PDF), and raising the stagehouse roof 20 feet, adding a grid, and making other improvements, at an estimated cost of almost $1.3 million (item K, page 20, 67-68, and 71 of the PDF). At almost $1.7 million the estimated cost of these two projects is almost twice that budgeted. I therefore presume that the recommendations of the draft 2014 report have been scaled back somewhat.
 
 <figure markdown="1">
-[![Merriweather electrical transformer](http://hecker.files.wordpress.com/2014/05/merriweather-transformer-symphony-woods.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-transformer-symphony-woods.jpg)
+[![Merriweather electrical transformer](http://hecker.files.wordpress.com/2014/05/merriweather-transformer-symphony-woods.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-transformer-symphony-woods.jpg)
 <figcaption>Electrical transformer in Symphony Woods near Merriweather Post Pavilion.</figcaption>
 </figure>
 
 _Upgrade utilities._ This comprises one Exhibit A budget line item (“Utility infrastructure Work”) at less than $0.9 million. The draft 2014 Ziger/Snead report noted that “Most of the original underground utilities serving Merriweather are believed to be either reaching an end to their practical life or are in need of modernizing for the sake of efficiency” (page 12 of the PDF). The draft 2014 report recommended replacing the electrical, water, and utilities serving the site, as well as installing new storm water management facilities and site lighting, at a total cost of $2.5 million (item H, pages 18, 65-66, and 71 in the PDF). That figure is significantly higher than the budget line item, so presumably either the plans are scaled back from what was recommended or the work is included under other budget items.
 
 <figure markdown="1">
-[![ADA parking lot at Merriweather Post Pavilion](http://hecker.files.wordpress.com/2014/05/merriweather-ada-parking.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-ada-parking.jpg)
+[![ADA parking lot at Merriweather Post Pavilion](http://hecker.files.wordpress.com/2014/05/merriweather-ada-parking.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-ada-parking.jpg)
 <figcaption>“A total of 31 ADA parking spaces remain outside West Entrance gate.” Image and original caption from the draft 2014 Ziger/Snead report, page 29 of the PDF.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ _Parking._ This project is a single Exhibit A budget line item at almost $0.4 mi
 The draft 2014 Ziger/Snead report recommended doubling the size of the ADA parking lot in order to meet ADA requirements (page 18 of the PDF). This may be what this Exhibit A budget line item is for, or it may be for something else entirely.
 
 <figure markdown="1">
-[![Merriweather 932 Club](http://hecker.files.wordpress.com/2014/05/merriweather-932-club.jpg?w=300)](http://hecker.files.wordpress.com/2014/05/merriweather-932-club.jpg)
+[![Merriweather 932 Club](http://hecker.files.wordpress.com/2014/05/merriweather-932-club.jpg)](http://hecker.files.wordpress.com/2014/05/merriweather-932-club.jpg)
 <figcaption>Interior of the 932 Club at Merriweather Post Pavilion. “‘932 Club,’ an Assembly Occupancy, requires a seasonal food permit, and sprinklering is now advised.” Image and original caption from the draft 2014 Ziger/Snead report, page 55 of the PDF.</figcaption>
 </figure>
 

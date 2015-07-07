@@ -16,7 +16,7 @@ tags:
 I previously discussed [parking at Merriweather Post Pavilion](/2014/03/24/parking-and-the-future-of-merriweather-post-pavilion/). How does Merriweather fare compared to other venues? Do they offer any glimpses of Merriweather’s future with respect to parking? For this post I picked three different venues, each with a Merriweather connection and all of them together showing a wide range of venue parking situations.
 
 <figure markdown="1">
-[![Aerial view of Jiffy Lube Live and surroundings](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png)
+[![Aerial view of Jiffy Lube Live and surroundings](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png)](http://hecker.files.wordpress.com/2014/03/jiffy-lube-live-500-ft-scale-with-circles.png)
 <figcaption>Jiffy Lube Live and surroundings, Bristow VA. The circles show areas within a quarter mile and half mile of the venue. Click for high-resolution version.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Your “senior” staff abdicated responsibility to a bunch of pimply faced teen
 Ouch. I may be cherry-picking bad reviews to some extent, but overall people apparently have pretty negative feelings about parking, traffic, and other aspects of the Jiffy Lube Live experience; the average Yelp rating for the venue is only two-and-a-half stars (out of five), compared to three-and-a-half stars for Merriweather.2
 
 <figure markdown="1">
-[![Jay Pritzker Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png)
+[![Jay Pritzker Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png)](http://hecker.files.wordpress.com/2014/03/jay-pritzker-pavilion-500-ft-scale-with-circles.png)
 <figcaption>Jay Pritzker Pavilion in Millennium Park and surroundings, Chicago IL. Circles show areas within a quarter mile and half mile of the pavilion. Click for high-resolution version.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Let’s now turn from a rural setting to a very urban setting, and look at the [
 As can be seen from the [aerial view of the Jay Pritzker Pavilion](https://www.google.com/maps/@41.8832734,-87.6204878,1457m/data=!3m1!1e3), there is essentially no open-air parking available anywhere near the pavilion and the surrounding park. However there is a [complex of underground parking garages](http://www.millenniumgarages.com/about/) providing over 9,000 spaces in total, most of them within a quarter mile of the pavilion, and there are also nearby rail and bus transit stops. The Pritzker Pavilion is wildly popular (rated at [four and a half stars on Yelp](http://www.yelp.com/biz/jay-pritzker-pavilion-chicago)), and in reading nearly a hundred reviews I found only one complaint about parking--and that seemed to be as much about the cost as about the availability. (Note also that I found many reviewers commenting on how clean the bathrooms were.)
 
 <figure markdown="1">
-[![Cythnia Woods Mitchell Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png?w=300)](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png)
+[![Cythnia Woods Mitchell Pavilion and surroundings](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png)](http://hecker.files.wordpress.com/2014/03/cynthia-woods-mitchell-pavilion-500-ft-scale-with-circles.png)
 <figcaption>Cynthia Woods Mitchell Pavilion and surroundings, The Woodlands, Houston TX. Circles show areas within a quarter mile and half mile of the venue. Click for high-resolution version.</figcaption>
 </figure>
 

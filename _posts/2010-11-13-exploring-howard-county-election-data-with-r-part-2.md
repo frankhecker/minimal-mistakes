@@ -75,7 +75,7 @@ I'll start with the percentage of voters who are Republicans, as I did when I di
 
 R can generate very complicated and professional-looking plots, but in this case we get the following barebones but nonetheless useful graph:
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years1.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years1.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years1.png)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years1.png)
 
 It's hard to discern a trend here. It looks as if the percentage of Republican voters was rising from 1998 to 2002, only to drop off in 2006 to its original level. The vertical scale of the graph exaggerates the relative differences from year to year, so let's redo the plot, this time using a vertical scale from 0 to 60 percent.
 
@@ -86,7 +86,7 @@ It's hard to discern a trend here. It looks as if the percentage of Republican v
 
 Here the `ylim` parameter sets the range of values on the vertical (y) axis to 0 on the low end and 60 on the high end. The value `c(0,60)` is a list of two numbers (a vector in R terminology) concatenated together (where the c comes from).
 
-[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years-0-60.png?w=300)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years-0-60.png)
+[![](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years-0-60.png)](http://hecker.files.wordpress.com/2010/11/hoco-gub-gen-pct-voters-r-vs-years-0-60.png)
 
 Notice that in this plot the percentage of Republican voters appears relatively static, fluctuating somewhere between 35% and 40% over the years. We can get a bit more specific about this by computing the mean and standard deviation of these values:
 

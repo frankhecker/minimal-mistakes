@@ -43,7 +43,7 @@ As a first step in the analysis I’ll use the `plot()` function to plot the val
 
 R can generate very professional-looking plots but in this case I don’t need the frills, just the following simple but nonetheless useful scatter plot:
 
-[![snappct-vs-econfree-2011](http://hecker.files.wordpress.com/2013/03/snappct-vs-econfree-20112.png?w=300)](http://hecker.files.wordpress.com/2013/03/snappct-vs-econfree-20112.png)
+[![snappct-vs-econfree-2011](http://hecker.files.wordpress.com/2013/03/snappct-vs-econfree-20112.png)](http://hecker.files.wordpress.com/2013/03/snappct-vs-econfree-20112.png)
 
 (If you'd like you can click on the graph to see a larger version.)
 
@@ -82,7 +82,7 @@ Are the correlations with regulatory freedom and fiscal freedom really significa
 
 Here’s the resulting graph for SNAP participation percentages vs. regulatory freedom:
 
-[![snappct-vs-regfree-2011](http://hecker.files.wordpress.com/2013/03/snappct-vs-regfree-2011.png?w=300)](http://hecker.files.wordpress.com/2013/03/snappct-vs-regfree-2011.png)
+[![snappct-vs-regfree-2011](http://hecker.files.wordpress.com/2013/03/snappct-vs-regfree-2011.png)](http://hecker.files.wordpress.com/2013/03/snappct-vs-regfree-2011.png)
 
 It looks as if there’s a slight tendency for states with greater regulatory freedom to have fewer people on food stamps, but still the data are all over the map in general.
 
@@ -95,7 +95,7 @@ I’ll do the same sort of graph for fiscal freedom:
 &gt;
 [/sourcecode]
 
-[![snappct-vs-fiscfree-2011](http://hecker.files.wordpress.com/2013/03/snappct-vs-fiscfree-2011.png?w=300)](http://hecker.files.wordpress.com/2013/03/snappct-vs-fiscfree-2011.png)
+[![snappct-vs-fiscfree-2011](http://hecker.files.wordpress.com/2013/03/snappct-vs-fiscfree-2011.png)](http://hecker.files.wordpress.com/2013/03/snappct-vs-fiscfree-2011.png)
 
 Here any correlation is even harder to discern, though if I squint I can see a very slight tendency for states with greater fiscal freedom to have higher rates of SNAP participation.
 
